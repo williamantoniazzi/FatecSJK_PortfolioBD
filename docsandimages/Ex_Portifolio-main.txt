@@ -1,0 +1,11 @@
+[17/10/22 10:01] JULIANA FORIN PASQUINI MARTINEZ - Orientadora
+
+Bom dia William. Segue exemplo de Portfolio :  https://github.com/GabrielSG20/Portfolio/blob/main/README.md
+Portfolio/README.md at main · GabrielSG20/Portfolio
+Portfólio referente aos projetos acadêmicos desenvolvidos juntamente com a Fatec São José dos Campos. - Portfolio/README.md at main · GabrielSG20/Portfolio
+
+
+
+https://github.com/GabrielSG20/Portfolio.git
+https://github.com/GabrielSG20/Portfolio/blob/main/README.md
+https://github.com/GabrielSG20/Portfolio/blob/69a12d642b7df1bb7af73d88f52dc66616c00698/README.md
