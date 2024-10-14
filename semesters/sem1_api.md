@@ -1,12 +1,10 @@
 # API 1 - 1º Semestre, 2020-1
 
-<br/>
-
 ## Projeto: Assistente Pessoal Pet.
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/matheushgf/AssistentePessoalPet)
 
-Parceiro Acadêmico: [FATEC SJC](https://fatecsjc-prd.azurewebsites.net/).
+Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/).
 
 <br/>
 
@@ -74,14 +72,14 @@ Para mim este projeto agregou em:
 
 ---
 
-## Meus Projetos:
+## Meus Projetos
 
-1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
-2º Semestre 2020-2 - [Sistema de Digitação de Contas DDC](./semestres/sem2_api.md). <br/>
-3º Semestre 2022-2- [HexTech - Estações e Clima "ioWEATHER"](./semestres/sem3_api.md). <br/>
-4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./semestres/sem4_api.md). <br/>
-5º Semestre. <br/>
-6º Semestre. <br/>
+1º Semestre 2020-1: [Assistente Pessoal PET](./sem1_api.md). <br/>
+2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./sem2_api.md). <br/>
+3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./sem3_api.md). <br/>
+4º Semestre 2023-1: [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./sem4_api.md). <br/>
+5º Semestre 2023-2: <br/>
+6º Semestre 2024-1: <br/>
 
 ## 
 
