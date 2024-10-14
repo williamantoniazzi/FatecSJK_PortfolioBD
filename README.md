@@ -1,4 +1,4 @@
-# <center> Portfólio API Tecnólogo em Banco de Dados - William David Antoniazzi
+# Portfólio API Tecnólogo em Banco de Dados - William David Antoniazzi
 
 ![FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](./docsandimages/fatec/predio.a3883078.png)
 
@@ -29,7 +29,7 @@ Possuo bons conhecimentos em redes de computadores e servidores, swithches/rotea
 
 <table border="0" align="center">
     <tr>
-        <td colspan="2" align="center"><img style="border-radius: 75%;" src="./docsandimages/1516844738897.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a><br/> Analista de Suporte e Infra - TI
+        <td colspan="2" align="center"><img src="./docsandimages/1516844738897.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a><br/> Analista de Suporte e Infra - TI
         </td>
     </tr>
     <tr align="center">
