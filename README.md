@@ -1,6 +1,6 @@
 # Portfólio API Tecnólogo em Banco de Dados - William David Antoniazzi
 
-![FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](./docsandimages/fatec/predio.a3883078.png)
+![FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](./docsandimages/fatec/prediosjk771x300.png)
 
 ---
 
@@ -13,6 +13,7 @@ Trabalho de graduação na modalidade Portfólio dos projetos realizados com a m
 
 ## Sobre o autor
 
+Olá, bem-vindo, tudo bem? <br/>
 Eu sou William David Antoniazzi, tenho 37 anos e estou cursando o 5º Semestre em Banco de Dados, ingressei no primeiro semestre de 2020.
 Atualmente sou formado Técnico em informática pelo [SENAC São José dos Campos/SP](https://www.sp.senac.br/senac-sao-jose-dos-campos) e Graduado Técnologo em Redes de computadores pela [UNICID - Universidade Cidade de São Paulo](https://www.unicid.edu.br/).
 <br/>
