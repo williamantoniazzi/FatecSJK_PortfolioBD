@@ -6,8 +6,7 @@
 
 </div>
 
----
-
+##
 <p align="justify">Trabalho de graduação na modalidade Portfólio dos projetos realizados com a metodologia Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela [FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/ "FATEC Prof. Jessen Vidal").</p>
 
 ### Índice
@@ -57,8 +56,8 @@ Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesqui
 2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./semesters/sem2_api.md). <br/>
 3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./semesters/sem3_api.md). <br/>
 4º Semestre 2023-1: [HexTech - Aircraft Configuration Control (ACC)](./semesters/sem4_api.md). <br/>
-5º Semestre 2023-2: <br/>
-6º Semestre 2024-1: <br/>
+5º Semestre 2023-2: [Hextech - HEXTaurante](./semesters/sem5_api.md) <br/> 
+6º Semestre 2025-1: <br/>
 
 ## 
 
