@@ -9,3 +9,9 @@ Portfólio referente aos projetos acadêmicos desenvolvidos juntamente com a Fat
 https://github.com/GabrielSG20/Portfolio.git
 https://github.com/GabrielSG20/Portfolio/blob/main/README.md
 https://github.com/GabrielSG20/Portfolio/blob/69a12d642b7df1bb7af73d88f52dc66616c00698/README.md
+
+
+   <div align="center">
+     <video src="https://user-images.githubusercontent.com/61523979/187800071-adff2855-2267-402d-800f-6d8f18667d1f.mp4" controls="controls" style="max-rate: 730px;">
+     </video>    
+   </div>

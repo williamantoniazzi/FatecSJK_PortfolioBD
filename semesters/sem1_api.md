@@ -10,11 +10,11 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 
 ## Descrição do projeto:
 
-Projeto proposto pela prórpria faculade que onde os alunos do 1º semestre, no caso eu, fomos gerenciados pelos alunos formandos.
+<p align="justify">Projeto proposto pela prórpria faculade que onde os alunos do 1º semestre, no caso eu, fomos gerenciados pelos alunos formandos.</p>
 
-O escopo entregue foi desenvolver um assistente pessoal podendo ser mobile, web ou desktop, com uma finalidade e utilizando voz para gerenciamento das atividades.
+<p align="justify">O escopo entregue foi desenvolver um assistente pessoal podendo ser mobile, web ou desktop, com uma finalidade e utilizando voz para gerenciamento das atividades.</p>
 
-Adotado pelo grupo a escolha de um assistente desktop, por voz e voltado para cuidados com o pet do cliente.
+<p align="justify">Adotado pelo grupo a escolha de um assistente desktop, por voz e voltado para cuidados com o pet do cliente.</p>
 <br/>
 
 ## Tecnologias adotadas:
@@ -68,19 +68,17 @@ Para mim este projeto agregou em:
 | Organização | ★★★★★★★☆☆☆ |
 | Planejamento | ★★★★☆☆☆☆☆☆ |
 
-<br/>
-
----
+<br>
 
 ## Meus Projetos
 
 1º Semestre 2020-1: [Assistente Pessoal PET](./sem1_api.md). <br/>
 2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./sem2_api.md). <br/>
 3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./sem3_api.md). <br/>
-4º Semestre 2023-1: [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./sem4_api.md). <br/>
+4º Semestre 2023-1: [HexTech - Aircraft Configuration Control (ACC)](./sem4_api.md). <br/>
 5º Semestre 2023-2: <br/>
 6º Semestre 2024-1: <br/>
 
-## 
+#
 
 [Home](../README.md)
