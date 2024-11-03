@@ -1,4 +1,4 @@
-# API 1 - 1º Semestre, 2020-1
+# API 1 - 1º Semestre BD, 2020-1
 
 ## Projeto: Assistente Pessoal Pet.
 

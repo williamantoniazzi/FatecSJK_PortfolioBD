@@ -1,4 +1,4 @@
-# API 4 - 4º Semestre, 2023-1
+# API 4 - 4º Semestre BD, 2023-1
 
 ## Projeto: Aircraft Configuration Control (ACC)
 
@@ -83,8 +83,6 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 | Java e Springboot | ★★☆☆☆ |
 | PL/SQL | ★★★★☆ |
 | Oracle Autonomous | ★★☆☆☆ |
-
-<br/>
 
 <!--
 **Soft Skills**

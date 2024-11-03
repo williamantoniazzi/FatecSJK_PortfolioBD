@@ -1,4 +1,4 @@
-# API 2 - 2º Semestre, 2020-2
+# API 2 - 2º Semestre BD, 2020-2
 
 ## Projeto: Sistema de digitação de contas DDC.
 

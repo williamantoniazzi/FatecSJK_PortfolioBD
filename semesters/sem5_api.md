@@ -1,61 +1,101 @@
-# API 4 - 4º Semestre, 2023-1
+# API 5 - 5º Semestre BD, 2023-2
 
-## Projeto: Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"
+## Projeto: Oracle HEXtaurante
 
-[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/GroupHextech/HEXTECH-API4sem)
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/GroupHextech/HEXTECH-API5sem)
 
-Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
+Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 
-<br>
+## Resumo do projeto.
 
-## Resumo do projeto:
+<!--
+<p align="justify">Desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação comercial, civil, militar e agrícola.</p>
 
-<!-- IACIT é uma empresa brasileira, fundada em 1986, São 36 anos de experiência que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. Com capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados às áreas de Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio.
+<p align="justify">Plataforma Web responsiva e intuítiva que possa proporcionar o gerenciamento e controlar as configurações das aeronaves, permitindo assim aos pilotos verificarem as configurações da aeronave, comparar itens e identificar limitações dos itens que operam.</p>
+-->
+## Tecnologias adotadas.
+<!--
+<summary>Front-End</summary>
 
-O problema apresentado é a necessidade em armazenar os dados das estações em um banco de dados e a partir destes dados conseguir gertar relátorios e gráficos a seus clientes. -->
-<br/>
+- [JavaScript (ES6)](https://www.javascript.com)
+- [HTML5](https://www.w3schools.com/css/)
+- [CSS3](https://www.w3schools.com/css/)
+- [Vue 3](https://vuejs.org/guide/quick-start)
 
-## Tecnologias adotadas:
+<summary>Back-End</summary>
 
-<!-- Adotado pelo grupo a criação de um sistema WEB com back-end JAVA (com JPA, Thymeleaf e Hibernate) e base de dados PostgreSQL. O sistema permite a criação de cadastro de novas estações, cliente e visualização de gráfico a partir dos dados já em banco.
+- [Java](https://www.java.com/pt-BR/)
+- [Spring boot](https://spring.io/projects/spring-boot)
+- [Apache Maven](https://maven.apache.org/)
+- [Hibernate](https://hibernate.org/)
 
-Para a metodologid de desenvolvimento e tarefas utilizamos o [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
-Espaço da [HEXTECH](https://fatecbdsjc.atlassian.net/jira/software/projects/FHTAPI3SEM/boards/1), ferramenta que nos proporcionou a documentação das atividades e meetings, distribuição de tarefas e burdown.
+<summary>Banco de Dados</summary>
 
-> OBS: Material ainda em andamento, sem evidências do item em funcionamento -->
-<br/>
+- [Oracle Autonomous Database](https://www.oracle.com/br/autonomous-database/)
 
-## Contribuições pessoais e aprendizado:
+<summary>Metodologia</summary>
 
-<!-- Para esta API atribui a responsábilidade para dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe pela primeira vez.
-Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.
+- [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
+-->
+## Projeto em funcionamento.
+<!--
+![](../docsandimages/4BD_HEXTECH_Final.gif "ACC Embraer HexTech")
+-->
+## Contribuições pessoais.
+<!--
+<p align="justify">Atuando como desenvolvedor com back-end e modelagem e gerenciamento do banco de dados em Oracle Cloud.<p>
+<p align="justify">Nesta API os desafios foram:</p>
 
-Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática. -->
-<br/>
+- Modelagem e gerenciamento do Banco de Dadaos relacional no Oracle Autonomous.
+- Utilização de Springboot e Arquitetura rest.
+- Utilização de listas em Java.
 
-## Aprendizados efetivos:
+<details>
+<summary>Banco de Dados</summary>
+  
+### Conexão do Autonomous Database:
+<p align="justify">Executei a conexão do banco de dados com a aplicação, por meio da pasta Wallet e configurando todo o ambiente em que o Banco de dados estava hospedado.</p>
 
-**Hard Skills**
+### Modelagem de Dados:
+<p align="justify">Contribui para a modelagem de dados de forma eficiente, considerando as relações entre entidades e as necessidades específicas da Embraer. Garanti que a estrutura do banco de dados fosse intuitiva e otimizada para consultas frequentes.</p>
+
+### Implementação de SQL e PL/SQL:
+<p align="justify">Desenvolvi consultas SQL eficientes para atender às demandas do aplicativo. Utilizei PL/SQL quando necessário para criar procedimentos armazenados e funções que possam melhorar o desempenho.</p>
+</details>
+
+<details>
+<summary>Back-end</summary>
+
+### Springboot:
+<p align="justify">Implementado o projeto utilizando Spring Boot, Spring Security e Spring Data. Com Spring Boot, alimentei o dashboard e cards via requisições HTTP em arquitetura REST. O Spring Security foi aplicado para criptografar dados sensíveis, e o Spring Data, para operações com o banco de dados.</p>
+
+### Java:
+<p align="justify">Aprendizado em tratamento de execeções em back-end java, e utilização de listas e arrays para manipulação com dados buscados do banco de dados Oracle.</p>
+
+</details>
+-->
+## Aprendizados efetivos.
+
+### Hard Skills:
 
 | Tecnologia/Metodologia | Classificação|
 | ----- | ----- |
-| Metodologia | ★★★★★☆☆☆☆☆ |
-| Java | ★★★☆☆☆☆☆☆☆ |
-| PostgreSQL | ★★★★★★★☆☆☆ |
-| MySQL | ★★★★★★★☆☆☆ |
-| GIT | ★★★★★☆☆☆☆☆ |
+| Metodologia Ágil | ★★★☆☆ |
+| Java e Springboot | ★★☆☆☆ |
+| PL/SQL | ★★★★☆ |
+| Oracle Autonomous | ★★☆☆☆ |
 
-<br/>
+### Soft Skills:
+<!--
+#### Gestão de Tempo:
+<p align="justify">Grupo com o menor número de participantes em relação aos demais e com algumas baixas ao longo do semestre a gestão de tempo foi fundamental para o desenvolvimento do projeto acompanhando cada tasks com atenção aos prazos e entregas de sprints.</p>
 
-**Soft Skills**
-| Habilidade | Classificação |
-| ----- | ----- |
-| Estratégico | ★★★★★★☆☆☆☆ |
-| Analítico | ★★★★★☆☆☆☆☆ |
-| Organização | ★★★★★★★☆☆☆ |
-| Foco | ★★★★★★★★☆☆ |
-| Empatia | ★★★★☆☆☆☆☆☆ |
+#### Comunicação:
+<p align="justify">Comunicação e troca de informações de forma clara entre cliente, PO e membros do grupo, evitando assim mal-entedimentos e garantindo alinhamento em busca do objetivo que é a entrega da sprint e projeto final.</p>
 
+#### Trabalho em Equipe:
+<p align="justify">Colaboração e o apoio mútuo, permitindo que as habilidades individuais se complementem, resultando assim em um ambiente em que todos buscam alcançar os objetivos do projeto.</p>
+-->
 <br>
 
 ## Meus Projetos

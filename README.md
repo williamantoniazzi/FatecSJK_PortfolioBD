@@ -30,7 +30,7 @@ Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesqui
 
 <table border="0" align="center">
     <tr>
-        <td colspan="2" align="center"><img src="./docsandimages/1516844738897.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a><br/> Suporte, Redes e Infraestrutura em TI
+        <td colspan="2" align="center"><img src="./docsandimages/william.antoniazzi.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a><br/> Suporte, Redes e Infraestrutura em TI
         </td>
     </tr>
     <tr align="center">

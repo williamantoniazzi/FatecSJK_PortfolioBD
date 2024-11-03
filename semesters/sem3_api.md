@@ -1,4 +1,4 @@
-# API 3 - 3º Semestre, 2022-2
+# API 3 - 3º Semestre BD, 2022-2
 
 ## Projeto: Sistema Meteorológico ioWeather.
 
