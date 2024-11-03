@@ -104,7 +104,7 @@ Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./sem2_api.md). <br/>
 3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./sem3_api.md). <br/>
 4º Semestre 2023-1: [HexTech - Aircraft Configuration Control (ACC)](./sem4_api.md). <br/>
-5º Semestre 2023-2: [Hextech - HEXTaurante](./sem5_api.md) <br/> 
+5º Semestre 2023-2: [HexTech - HEXTaurante](./sem5_api.md) <br/> 
 6º Semestre 2025-1: <br/>
 
 #
