@@ -9,7 +9,7 @@
 </div>
 
 ##
-<p align="justify">Trabalho de graduação na modalidade de Portfólio dos projetos realizados com a metodologia de Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para a obtenção do título de Tecnólogo em Banco de Dados pela [FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/ "FATEC Prof. Jessen Vidal").</p>
+<p align="justify">Trabalho de graduação na modalidade de Portfólio dos projetos realizados com a metodologia de Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para a obtenção do título de Tecnólogo em Banco de Dados pela <a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank">FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal</a>.</p>
 
 ### Índice
 
@@ -19,12 +19,12 @@
 ## Sobre o autor
 
 <p align="justify">Olá, bem-vindo, tudo bem? </p>
-<p align="justify">Eu sou William David Antoniazzi, tenho 37 anos e estou cursando o 5º semestre de Banco de Dados, no qual ingressei no primeiro semestre de 2020. Tenho formação Técnico em Informática pelo [SENAC São José dos Campos/SP](https://www.sp.senac.br/senac-sao-jose-dos-campos), 2007 e Técnologo em Redes de computadores pela [UNICID - Universidade Cidade de São Paulo](https://www.unicid.edu.br/), 2019.</p>
+<p align="justify">Eu sou William David Antoniazzi, tenho 37 anos e estou cursando o 5º semestre de Banco de Dados, no qual ingressei no primeiro semestre de 2020. Tenho formação Técnico em Informática pelo <a href="https://www.sp.senac.br/senac-sao-jose-dos-campos" target="_blank">SENAC São José dos Campos/SP</a>, 2007 e Técnologo em Redes de computadores pela <a href="https://www.unicid.edu.br/"target="_blank">UNICID - Universidade Cidade de São Paulo</a>, 2019.</p>
 
 <!-- <p align="justify">Durante a gradução, a cada semestre é desenvovido um projeto integrando as disciplinas do semestre e problemas reais do mercado de trabalho em parcerias com empresas convidadas pela entidade, API - Aprendizagem por Projetos Integrados.
 Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesquisar novas soluções para atender a demanda e construir soluções que atendam o cliente, agregando valor, além de tal base preparar o aluno para os desafios reais do mercado de trabalho. </p> -->
 
-<p align="justify">Atualmente, atuo como Analista de Suporte e Infraestrutura em TI na [Sonaca Brasil LTDA](https://www.linkedin.com/company/sonacabrasil), onde sou responsável pelo gerenciamento e planejamento de infraestrutura, rotas de comunicação e integração de ambientes com redes e computadores.<p>
+<p align="justify">Atualmente, atuo como Analista de Suporte e Infraestrutura em TI na <a href="https://www.linkedin.com/company/sonacabrasil" target="_blank">Sonaca Brasil LTDA</a>, onde sou responsável pelo gerenciamento e planejamento de infraestrutura, rotas de comunicação e integração de ambientes com redes e computadores.<p>
 
 <p align="justify">Tenho habilidades em redes de computadores e servidores, switches/roteadores, e, com o tecnólogo, busco aprimorar conhecimentos em SGBD's MySQL, PostgreSQL, Oracle, SQL Server, linguagem de programa Python, Java e PHPb. Também aplico metodologias ágeis para a execução de projetos, como Scrum e Kanban.<p>
 

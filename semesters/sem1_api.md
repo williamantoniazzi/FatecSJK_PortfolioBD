@@ -43,6 +43,7 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 </div>
 
 <p align="justify">No assistente, é possível:<p>
+
 - Cadastro do dono: Utilizador da aplicação.
 - Cadastro do Pet: Seja ele cão, gato ou outro animal, que irá receber as dicas e agendamentos pelo app.
 - Registro do animal: Cadastro dos dados e características do pet.
