@@ -78,7 +78,7 @@ Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 
 ### Hard Skills:
 
-| Tecnologia/Metodologia | Classificação|
+| Tecnologia/Metodologia | Nível|
 | ----- | ----- |
 | Metodologia Ágil | ★★★☆☆ |
 | Java e Springboot | ★★☆☆☆ |

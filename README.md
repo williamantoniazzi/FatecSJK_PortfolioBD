@@ -7,7 +7,7 @@
 </div>
 
 ##
-<p align="justify">Trabalho de graduação na modalidade Portfólio dos projetos realizados com a metodologia Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela [FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/ "FATEC Prof. Jessen Vidal").</p>
+<p align="justify">Trabalho de graduação na modalidade de Portfólio dos projetos realizados com a metodologia de Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para a obtenção do título de Tecnólogo em Banco de Dados pela [FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/ "FATEC Prof. Jessen Vidal").</p>
 
 ### Índice
 
@@ -17,16 +17,23 @@
 ## Sobre o autor
 
 <p align="justify">Olá, bem-vindo, tudo bem? </p>
-<p align="justify">Eu sou William David Antoniazzi, tenho 37 anos e estou cursando o 5º Semestre em Banco de Dados, ingressei no primeiro semestre de 2020.
-Atualmente sou formado Técnico em informática pelo [SENAC São José dos Campos/SP](https://www.sp.senac.br/senac-sao-jose-dos-campos) e Graduado Técnologo em Redes de computadores pela [UNICID - Universidade Cidade de São Paulo](https://www.unicid.edu.br/).</p>
+<p align="justify">Eu sou William David Antoniazzi, tenho 37 anos e estou cursando o 5º semestre de Banco de Dados, no qual ingressei no primeiro semestre de 2020. Tenho formação Técnico em Informática pelo [SENAC São José dos Campos/SP](https://www.sp.senac.br/senac-sao-jose-dos-campos), 2007 e Técnologo em Redes de computadores pela [UNICID - Universidade Cidade de São Paulo](https://www.unicid.edu.br/), 2019.</p>
 
-<p align="justify">Durante a gradução, a cada semestre é desenvovido um projeto integrando as disciplinas do semestre e problemas reais do mercado de trabalho em parcerias com empresas convidadas pela entidade, API - Aprendizagem por Projetos Integrados.
-Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesquisar novas soluções para atender a demanda e construir soluções que atendam o cliente, agregando valor, além de tal base preparar o aluno para os desafios reais do mercado de trabalho. </p>
+<!-- <p align="justify">Durante a gradução, a cada semestre é desenvovido um projeto integrando as disciplinas do semestre e problemas reais do mercado de trabalho em parcerias com empresas convidadas pela entidade, API - Aprendizagem por Projetos Integrados.
+Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesquisar novas soluções para atender a demanda e construir soluções que atendam o cliente, agregando valor, além de tal base preparar o aluno para os desafios reais do mercado de trabalho. </p> -->
 
-<p align="justify">Atualmente sou Analista de Suporte e Infraestrutra em TI na área da indústria na [Sonaca Brasil LTDA](https://www.linkedin.com/company/sonacabrasil), atuando no gerenciamento, planejamento da infra, rotas de comunição e integrações de ambientes com redes e computadores.<p>
+<p align="justify">Atualmente, atuo como Analista de Suporte e Infraestrutura em TI na [Sonaca Brasil LTDA](https://www.linkedin.com/company/sonacabrasil), onde sou responsável pelo gerenciamento e planejamento de infraestrutura, rotas de comunicação e integração de ambientes com redes e computadores.<p>
 
-<p align="justify">Possuo bons conhecimentos em redes de computadores e servidores, swithches/roteadores e com o tecnólogo viso aprimorando conhecimentos em Banco de dados (MYSQL, PostgreSQL, ORACLE, SQL Server), programação com Python, Java e PHP, sendo mais para desenvolvimento WEB, além de metodologias agéis para execução de projetos como Scrum e Kanban.<p>
+<p align="justify">Tenho habilidades em redes de computadores e servidores, switches/roteadores, e, com o tecnólogo, busco aprimorar conhecimentos em SGBD's MySQL, PostgreSQL, Oracle, SQL Server, linguagem de programa Python, Java e PHPb. Também aplico metodologias ágeis para a execução de projetos, como Scrum e Kanban.<p>
 
+<div align="center">
+<img src="./docsandimages/william.antoniazzi.jpg" width="200px;"/><br/>
+<b>William Antoniazzi</b>
+<p>Suporte, Redes e Infraestrutura em TI</p>
+<a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-WilliamAntoniazzi-blue?style=flat-square&logo=github"></a> <a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-WilliamAntoniazzi-blue?style=flat-square&logo=linkedin"></a>
+
+</div>
+<!--
 <table border="0" align="center">
     <tr>
         <td colspan="2" align="center"><img src="./docsandimages/william.antoniazzi.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a><br/> Suporte, Redes e Infraestrutura em TI
@@ -45,7 +52,7 @@ Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesqui
         </td>
     </tr>
 </table>
-
+-->
 <br/>
 
 ---
