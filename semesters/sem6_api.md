@@ -1,4 +1,4 @@
-# API 6 - 6º Semestre BD, 2025-1
+# API 6 - 6º Semestre BD, 2025-1 [REFAZER]
 
 ## Projeto: HexTech
 

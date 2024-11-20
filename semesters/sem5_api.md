@@ -1,4 +1,4 @@
-# API 5 - 5º Semestre BD, 2023-2
+# API 5 - 5º Semestre BD, 2023-2 [REFAZER]
 
 ## Projeto: Oracle HEXtaurante
 

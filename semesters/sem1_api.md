@@ -28,9 +28,9 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 
 - [MySQL Community](https://www.mysql.com/products/community/)
 
-<summary>Metodologia</summary>
+<summary>Metodologia ágil</summary>
 
-- [Trello](https://trello.com/pt-BR)
+- [Atlassian Trello](https://trello.com/pt-BR)
 
 ## Projeto em funcionamento.
 
@@ -38,18 +38,18 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 
 [![](http://img.youtube.com/vi/7vHIkx5pvZ4/0.jpg)](http://www.youtube.com/watch?v=7vHIkx5pvZ4 "Projeto Integrador 2020-1")
 
-*Telas do projeto em funcionamento*
+*Wireframes do projeto em funcionamento*
 
 </div>
 
-<p align="justify">No assistente, é possível:<p>
+<p align="justify">No assistente, é possível:</p>
 
-- Cadastro do dono: Utilizador da aplicação.
-- Cadastro do Pet: Seja ele cão, gato ou outro animal, que irá receber as dicas e agendamentos pelo app.
-- Registro do animal: Cadastro dos dados e características do pet.
-- Registro de ração: Controle da quantidade comprada, quantidade oferecida ao animal e marca do produto.
-- Registro de lembrete: Agendamento de compromissos no Google Agenda, como datas de banho, consultas veterinárias e outros cuidados.
-- Registro de peso: Monitoramento da variação de peso do pet com base na alimentação, incluindo um gráfico para acompanhamento.
+- <p align="justify">Cadastro do dono: Utilizador da aplicação.</p>
+- <p align="justify">Cadastro do Pet: Seja ele cão, gato ou outro animal, que irá receber as dicas e agendamentos pelo app.</p>
+- <p align="justify">Registro do animal: Cadastro dos dados e características do pet.</p>
+- <p align="justify">Registro de ração: Controle da quantidade comprada, quantidade oferecida ao animal e marca do produto.</p>
+- <p align="justify">Registro de lembrete: Agendamento de compromissos no Google Agenda, como datas de banho, consultas veterinárias e outros cuidados.</p>
+- <p align="justify">Registro de peso: Monitoramento da variação de peso do pet com base na alimentação, incluindo um gráfico para acompanhamento.</p>
 
 ## Contribuições pessoais.
 
@@ -57,9 +57,9 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 
 <p align="justify">Nesta API os desafios foram:</p>
 
-- Modelagem e gerenciamento do SGBD relacional MySQL Community.
-- Utilização de Phyton, Tkinter.
-- Integração do back-end, front-end e o assistente de voz.
+- <p align="justify">Modelagem e gerenciamento do SGBD relacional MySQL Community.</p>
+- <p align="justify">Utilização de Phyton, Tkinter.</p>
+- <p align="justify">Integração do back-end, front-end e o assistente de voz.</p>
 
 ### Back-end
 <p align="justify"><b>Phyton:</b> Programação é um desafio para mim, e iniciar com o Phyton para conhecer estruturas de linguagem, POO e outros conceitos facilitou a questão de aprendizado, o que possibilitou minha contribuição para criação de alguams partes do projeto como cadastro do pet e controle de ração e trabalhar com validação de dados e controle de excessão.</p>
@@ -85,7 +85,6 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 | SGBD MySQL | ★★☆☆☆ |
 | GitHub | ★★☆☆☆ |
 
-
 ### Soft Skills:
 
 <details>
@@ -95,7 +94,7 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 
 <details>
 <summary>Aprendizado:</summary>
-<p align="justify">Buscar fontes confiáveis, materiais complementares e adquirir conhecimento em uma linguagem/SGBD totalmente nova, foram desafios durante o semestre, porém muito válidos para o ambiente de trabalho e para o andamento dos demais semestres que virão.</p>
+<p align="justify">Buscar fontes confiáveis, materiais complementares e adquirir conhecimento em uma linguagem/SGBD totalmente nova, foram desafios durante o semestre, porém muito válidos para referência no mercado de trabalho e para o andamento dos demais semestres que virão.</p>
 </details>
 
 <details>

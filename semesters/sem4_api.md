@@ -43,7 +43,8 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 <div align="center">
 
 ![](../docsandimages/4BD_HEXTECH_Final.gif "ACC Embraer HexTech")
-*Telas do projeto em funcionamento*
+
+*Wireframes do projeto em funcionamento*
 
 </div>
 
@@ -59,16 +60,16 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 - Utilização de código limpo em POO.
 
 ### Back-end
-<p align="justify"><b>Springboot:</b> Contribuí na implementação do projeto com SpringBoot, Spring Security e Spring Data, criando o dashboard e cards via requisições HTTP em arquitetura REST. O Spring Security foi usado para criptografia de dados sensíveis, enquanto o Spring Data facilitou operações com o banco de dados.</p>
+<p align="justify"><b>Springboot:</b> Contribuí na implementação do projeto utilizando Spring Boot, Spring Security e Spring Data. Desenvolvi o dashboard e os cards por meio de requisições HTTP em arquitetura REST. O Spring Security foi empregado para criptografia de dados sensíveis, enquanto o Spring Data simplificou as operações com o banco de dados.</p>
 
-<p align="justify"><b>Java:</b> Aprimorei habilidades em tratamento de exceções e no uso de listas e arrays para manipular dados oriundos do banco Oracle.</p>
+<p align="justify"><b>Java:</b> Aprimorei minhas habilidades no tratamento de exceções e no uso de listas e arrays para manipulação de dados provenientes do banco Oracle.</p>
 
 ### SGBD  
-<p align="justify"><b>Conexão do Autonomous Database:</b> Realizei a conexão do banco de dados à aplicação por meio da pasta Wallet e configurei todo o ambiente necessário para o banco de dados hospedado.</p>
+<p align="justify"><b>Conexão do Autonomous Database:</b> Realizei a integração do banco de dados com a aplicação, configurando o ambiente necessário e utilizando a pasta Wallet para estabelecer a conexão com o banco hospedado.</p>
 
-<p align="justify"><b>Modelagem de Dados:</b> Contribuí para a modelagem de dados eficiente, considerando relações entre entidades e as necessidades da Embraer, assegurando uma estrutura intuitiva e otimizada para consultas frequentes.</p>
+<p align="justify"><b>Modelagem de Dados:</b> Participei ativamente na modelagem de dados, garantindo eficiência nas relações entre entidades e atendendo às demandas específicas da Embraer. Estruturei o banco de forma intuitiva e otimizada para consultas frequentes.</p>
 
-<p align="justify"><b>Implementação de SQL e PL/SQL:</b> Desenvolvi consultas SQL eficientes e utilizei PL/SQL para criar procedimentos e funções para consultas, inserts e updates otimizadas.</p>
+<p align="justify"><b>Implementação de SQL e PL/SQL:</b> Desenvolvi consultas SQL eficientes e utilizei PL/SQL para criar procedimentos armazenados e funções otimizadas para operações de consulta, inserção e atualização de dados.</p>
 
 ## Aprendizados efetivos.
 
@@ -80,7 +81,6 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 | Java e Spring Boot | ★★☆☆☆ |
 | PL/SQL | ★★★★☆ |
 | Oracle Autonomous | ★★☆☆☆ |
-
 <!--
 **Soft Skills**
 | Habilidade | Classificação |
@@ -106,17 +106,17 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 
 <details>
 <summary>Gestão de Tempo:</summary>
-<p align="justify">Gerenciei o tempo de forma eficaz em um grupo com o menor numero de participantes e tivemos algumas baixas ao longo do semestre, mas com a gestão de tempo consegui garantir o desenvolvimento do projeto dentro dos prazos de sprints.</p>
+<p align="justify">Gerenciei o tempo de forma eficiente em um grupo com o menor número de participantes, superando desafios como baixas ao longo do semestre. Através de uma gestão eficaz, assegurei o desenvolvimento e a entrega do projeto dentro dos prazos estipulados nas sprints.</p>
 </details>
 
 <details>
 <summary>Comunicação:</summary>
-<p align="justify">Foco na comunicação clara entre cliente, PO e equipe para evitar mal-entendidos e garantir o alinhamento das entregas.</p>
+<p align="justify">Priorizei uma comunicação clara e objetiva entre o cliente, o Product Owner (PO) e a equipe, evitando mal-entendidos e garantindo o alinhamento necessário para o cumprimento das entregas.</p>
 </details>
 
 <details>
 <summary>Trabalho em Equipe:</summary>
-<p align="justify">Colaboração e suporte mútuo, aproveitando habilidades individuais para um ambiente de sinergia em busca dos objetivos do projeto.</p>
+<p align="justify">CFoquei na colaboração e no suporte mútuo, valorizando as habilidades individuais para criar um ambiente de sinergia e alcançar os objetivos do projeto de forma integrada.</p>
 </details>
 
 <br>
