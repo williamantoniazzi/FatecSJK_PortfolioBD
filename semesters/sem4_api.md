@@ -7,7 +7,6 @@
 Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 
 ## Resumo do projeto.
-
 <p align="justify">A Embraer é uma das maiores fabricantes de aeronaves do mundo, com sede em São José dos Campos, no Brasil. Fundada em 1969 como uma empresa estatal e privatizada em 1994, ela é pioneira na fabricação de aviões comerciais de médio porte, com destaque para as linhas ERJ e E-Jet, amplamente utilizadas por companhias aéreas regionais. Além do setor comercial, a Embraer atua na aviação executiva, com jatos como o Phenom e o Praetor, e na área militar, onde se destaca com o cargueiro KC-390 e a aeronave de ataque leve A-29 Super Tucano.</p>
 
 <p align="justify">A empresa também investe em tecnologia e inovação, desenvolvendo soluções para mobilidade aérea urbana e exploração de combustíveis sustentáveis. Reconhecida pela excelência em engenharia e inovação, a Embraer mantém alianças globais estratégicas e conta com fábricas e centros de serviços espalhados pelo mundo</p>
@@ -15,7 +14,6 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 <p align="justify">Desenvolvimento de um sistema em plataforma web de Controle de Configuração de Aeronaves (ACC). Trata-se de um ambiente responsivo e intuitivo que facilita o gerenciamento e o controle das configurações das aeronaves, permitindo aos pilotos verificar, comparar itens e identificar limitações operacionais.</p>
 
 ## Tecnologias adotadas.
-
 <summary>Front-End</summary>
 
 - [JavaScript (ES6)](https://www.javascript.com)
@@ -39,17 +37,15 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 - [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 ## Projeto em funcionamento.
-
 <div align="center">
 
 ![](../docsandimages/4BD_HEXTECH_Final.gif "ACC Embraer HexTech")
 
-*Wireframes do projeto em funcionamento*
+*Wireframes do projeto em funcionamento, exibição em gif*
 
 </div>
 
 ## Contribuições pessoais.
-
 <p align="justify">Atuando como desenvolvedor com back-end utilizando Java e Springboot e também com o SGBD Oracle Autonomous, base em cloud, realizando a modelagem e gerenciamento para a plataforma web.<p>
 
 <p align="justify">Nesta API os desafios encontrados foram:</p>
@@ -81,29 +77,8 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 | Java e Spring Boot | ★★☆☆☆ |
 | PL/SQL | ★★★★☆ |
 | Oracle Autonomous | ★★☆☆☆ |
-<!--
-**Soft Skills**
-| Habilidade | Classificação |
-| ----- | ----- |
-| Estratégico | ★★★★★★☆☆☆☆ |
-| Analítico | ★★★★★☆☆☆☆☆ |
-| Organização | ★★★★★★★☆☆☆ |
-| Foco | ★★★★★★★★☆☆ |
-| Empatia | ★★★★☆☆☆☆☆☆ |
 
-<br/>
-
-## Hard Skills
-
-* JavaScript - Intermediário
-* CSS - Intermediário
-* Vue - Básico
-* Chart.JS - Básico
-* Banco de dados - Intermediário
-* Autonomous Database - Básico
--->
 ### Soft Skills:
-
 <details>
 <summary>Gestão de Tempo:</summary>
 <p align="justify">Gerenciei o tempo de forma eficiente em um grupo com o menor número de participantes, superando desafios como baixas ao longo do semestre. Através de uma gestão eficaz, assegurei o desenvolvimento e a entrega do projeto dentro dos prazos estipulados nas sprints.</p>

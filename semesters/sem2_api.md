@@ -7,7 +7,6 @@
 Parceiro Acadêmico: [TecSUS Tecnologias para a Sustentabilidade](https://www.tecsus.com.br/).
 
 ## Resumo do projeto:
-
 <p align="justify">A TecSUS é uma startup de tecnologia da informação, que atua no desenvolvimento de dispositivos, aplicativos e sistemas para transmissão/recepção de dados, controle de equipamentos remotos e gestão da informação, aplicados predominantemente nos setores de abastecimento de água, saneamento, geração e distribuição de eletricidade, distribuição de gás natural e serviços municipais.</p>
 
 <p align="justify">O parceiro pediu uma solução para a gestão de contas. Como eles gerenciam o fornecimento de água, luz e gás, para empresas, industrias e agro, recebem mensalmente milhares de contas das prestadoras de serviço que precisam ser digitalizados por um call center, sendo assim o cliente relata:</p>
@@ -19,7 +18,6 @@ Parceiro Acadêmico: [TecSUS Tecnologias para a Sustentabilidade](https://www.te
 Como isso o sistema que buscam é melhorar esse controle e digitar apenas os campos importantes.
 
 ## Tecnologias adotadas.
-
 <summary>Front-End</summary>
 
 - [HTML](https://www.w3schools.com/html/default.asp)
@@ -40,19 +38,17 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 - [Atlassian Trello](https://trello.com/pt-BR)
 
 ## Projeto em funcionamento.
-
 <div align="center">
 
 ![](../docsandimages/2BD_DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
 
-*Wireframes do projeto em funcionamento*
+*Wireframes do projeto em funcionamento, exibição em gif*
 
 </div>
 
 <p align="justify">A proposta do grupo foi apresentar uma ferramenta leve para ser utilizada via web.Facilitando a digitação dos dados das contas de Energia, Água, Gás e outros de seus clientes.</p>
 
 ## Contribuições pessoais.
-
 <p align="justify">Contribuí com a modelagem e implementação do SGBD relacional MySQL, algumas telas front-end em HTML/CSS/Javascript e integração do front-end com o back-end.
 
 - <p align="justify">Modelagem e gerenciamento do SGBD relacional MySQL Community.</p>
@@ -75,19 +71,6 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 ### Metodologia ágil
 <p align="justify"><b>Atlassian Trello:</b> Trello utiliza o paradigma Kanban para gerenciamento de projetos. Nele foram centralizados cards com tarefas para cada membro da equipe da avaliação até sua conclusão.</p>
 
-<!--
-
-## Contribuições pessoais e aprendizado:
-
-Programação é um desafio para mim, fiquei responsável pelo front-end com HTML, CSS e integação com o back-end Java e onde orientação a objeto sintaxe e validação em caso de erros ou dados incorretos.
-Também contruibui com o grupo pela modelatem de banco e sua implementação em MySQL.
-
-Para mim este projeto agregou em:
-- Conhecimento de uma linguagem de programação;
-- Integração em Back-end, Front-end e BD;
-<br/>
-
--->
 ## Aprendizados efetivos:
 
 ### Hard Skills:
@@ -101,7 +84,6 @@ Para mim este projeto agregou em:
 | GitHub | ★★★☆☆|
 
 ### Soft Skills:
-
 <details>
 <summary>Trabalho em Equipe:</summary>
 <p align="justify">Trabarlhar em equipe após a primeira API se tornou mais prático e fácil, porém durante o semestre ocorreu COVID e também a utilização das aulas remotas, então neste periódo ao grupo teve que se adaptar com as reuniões e cobranças em tasks.</p>

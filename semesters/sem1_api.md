@@ -7,7 +7,6 @@
 Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/).
 
 ## Resumo do projeto.
-
 <p align="justify">Projeto proposto pela faculdade FATEC/SJC onde os alunos do primeiro semestre foram orientados pelos alunos formados, 6º Semestre daquele ano.</p>
 
 <p align="justify">O escopo deste projeto foi desenvolver um assistente pessoal, que poderia ser mobile, web ou desktop, com o tipo e finalidade definida pela equipe, sendo obrigatória a utilização de um assistente de voz para execução de ações.</p>
@@ -15,7 +14,6 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 <p align="justify">A equipe decidiu criar uma aplicação de cuidados para pets, um assistente desktop, utilizando Python para o back-end, Tkinter para o front-end, banco de dados SQL para armazenamento de informações e o assistente de voz do Google para reconhecimento de comandos.</p>
 
 ## Tecnologias adotadas.
-
 <summary>Front-End</summary>
 
 - [Tkinter](https://docs.python.org/pt-br/3/library/tkinter.html)
@@ -33,12 +31,11 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 - [Atlassian Trello](https://trello.com/pt-BR)
 
 ## Projeto em funcionamento.
-
 <div align="center">
 
 [![](http://img.youtube.com/vi/7vHIkx5pvZ4/0.jpg)](http://www.youtube.com/watch?v=7vHIkx5pvZ4 "Projeto Integrador 2020-1")
 
-*Wireframes do projeto em funcionamento*
+*Wireframes do projeto em funcionamento, link para o youtube*
 
 </div>
 
@@ -52,7 +49,6 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 - <p align="justify">Registro de peso: Monitoramento da variação de peso do pet com base na alimentação, incluindo um gráfico para acompanhamento.</p>
 
 ## Contribuições pessoais.
-
 <p align="justify">Atuei como desenvolvedor front-end, utilizando a linguagem Tkinter e contribuição para a modelagem do SGBD MySQL.<p>
 
 <p align="justify">Nesta API os desafios foram:</p>
@@ -86,7 +82,6 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 | GitHub | ★★☆☆☆ |
 
 ### Soft Skills:
-
 <details>
 <summary>Trabalho em Equipe:</summary>
 <p align="justify">Início das atividades em grupo do curso, desafio em atingir objetivo sem ainda saber as habilidades de cada um, porém foi um grande aprendizado em saber avaliar o ambiente e habilidade de cada um no grupo para assim auxiliar ou procurar auxilio em determinadas tarefas.</p>

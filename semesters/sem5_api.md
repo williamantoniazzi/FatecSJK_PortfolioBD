@@ -7,95 +7,95 @@
 Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 
 ## Resumo do projeto.
+<p align="justify">A Oracle Corporation é uma das maiores empresas globais de tecnologia, reconhecida principalmente por seus sistemas de gerenciamento de banco de dados (SGBD) e soluções empresariais. Fundada em 1977, a empresa oferece produtos como o Oracle Database, referência em segurança e desempenho, e serviços em nuvem, como o Oracle Cloud Infrastructure (OCI). Seu Oracle Autonomous Database automatiza processos de manutenção e otimização. Com presença global, a Oracle atende diversos setores, contribuindo para a transformação digital e a eficiência operacional das empresas.</p>
 
-<!--
-<p align="justify">Desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação comercial, civil, militar e agrícola.</p>
+<p align="justify">Os restaurantes enfrentam grandes desafios para manter o controle desde a entrada de materiais e gestão de estoque até os pedidos, sejam eles para consumo local ou delivery. Pensando nisso, desenvolvemos uma aplicação web totalmente interativa, focada na administração de toda a cadeia operacional do restaurante. A solução abrange desde o monitoramento de fornecedores e o controle de funcionários e escalas até a gestão rigorosa de estoque e pedidos.</p>
 
-<p align="justify">Plataforma Web responsiva e intuítiva que possa proporcionar o gerenciamento e controlar as configurações das aeronaves, permitindo assim aos pilotos verificarem as configurações da aeronave, comparar itens e identificar limitações dos itens que operam.</p>
--->
+<p align="justify">Essa abordagem integrada atende às principais demandas dos restaurantes, facilitando a tomada de decisões estratégicas e otimizando o desempenho do negócio.</p>
+
+<p align="justify">A aplicação oferece funcionalidades essenciais, como:</p>
+
+- <p align="justify">Dashboards personalizados: Facilitam a visualização de métricas relevantes e o acompanhamento do desempenho em tempo real.</p>
+- <p align="justify">Relatórios detalhados: Permitem análises aprofundadas para identificar tendências e áreas de melhoria.</p>
+- <p align="justify">Gestão integrada de recursos: Inclui módulos dedicados para o gerenciamento de funcionários, fornecedores e estoque.</p>
+
 ## Tecnologias adotadas.
-<!--
+
 <summary>Front-End</summary>
 
-- [JavaScript (ES6)](https://www.javascript.com)
-- [HTML5](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com)
+- [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
-- [Vue 3](https://vuejs.org/guide/quick-start)
+- [Vue.js](https://vuejs.org/guide/quick-start)
+- [Node.js](https://nodejs.org/pt)
+- [Microsoft PowerBI](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop)
 
 <summary>Back-End</summary>
 
 - [Java](https://www.java.com/pt-BR/)
 - [Spring boot](https://spring.io/projects/spring-boot)
-- [Apache Maven](https://maven.apache.org/)
-- [Hibernate](https://hibernate.org/)
 
 <summary>Banco de Dados</summary>
 
 - [Oracle Autonomous Database](https://www.oracle.com/br/autonomous-database/)
+- [Oracle MySQL, Test Database](https://www.mysql.com/products/community/)
 
 <summary>Metodologia</summary>
 
 - [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
--->
-## Projeto em funcionamento.
-<!--
-![](../docsandimages/4BD_HEXTECH_Final.gif "ACC Embraer HexTech")
--->
-## Contribuições pessoais.
-<!--
-<p align="justify">Atuando como desenvolvedor com back-end e modelagem e gerenciamento do banco de dados em Oracle Cloud.<p>
-<p align="justify">Nesta API os desafios foram:</p>
 
-- Modelagem e gerenciamento do Banco de Dadaos relacional no Oracle Autonomous.
-- Utilização de Springboot e Arquitetura rest.
-- Utilização de listas em Java.
+## Projeto em funcionamento.
+<div align="center">
+
+![](../docsandimages/5BD_HEXTECH_SP4.gif "Oracle HexTaurante")
+
+*Wireframes do projeto em funcionamento, exibição em gif*
+</div>
+
+## Contribuições pessoais.
+<p align="justify">Atuei como desenvolvedor com front-end, modelagem e gerenciamento do SGBD Oracle Cloud.<p>
 
 <details>
 <summary>Banco de Dados</summary>
-  
-### Conexão do Autonomous Database:
-<p align="justify">Executei a conexão do banco de dados com a aplicação, por meio da pasta Wallet e configurando todo o ambiente em que o Banco de dados estava hospedado.</p>
 
 ### Modelagem de Dados:
-<p align="justify">Contribui para a modelagem de dados de forma eficiente, considerando as relações entre entidades e as necessidades específicas da Embraer. Garanti que a estrutura do banco de dados fosse intuitiva e otimizada para consultas frequentes.</p>
-
-### Implementação de SQL e PL/SQL:
-<p align="justify">Desenvolvi consultas SQL eficientes para atender às demandas do aplicativo. Utilizei PL/SQL quando necessário para criar procedimentos armazenados e funções que possam melhorar o desempenho.</p>
+<p align="justify">Contribuí para a modelagem de dados de forma eficiente, considerando as relações entre entidades e as necessidades específicas da Embraer. Garanti que a estrutura do banco de dados fosse intuitiva e otimizada para consultas frequentes.</p>
 </details>
 
 <details>
-<summary>Back-end</summary>
+<summary>Front-End</summary>
 
-### Springboot:
-<p align="justify">Implementado o projeto utilizando Spring Boot, Spring Security e Spring Data. Com Spring Boot, alimentei o dashboard e cards via requisições HTTP em arquitetura REST. O Spring Security foi aplicado para criptografar dados sensíveis, e o Spring Data, para operações com o banco de dados.</p>
+### VUE.JS:
+<p align="justify">Utilizei Vue.js em conjunto com JavaScript para desenvolver telas interativas e responsivas. Criei a tela de insumos, permitindo a avaliação de itens em estoque, controle de entradas e saídas, e integração com dados provenientes do SGBD Oracle.</p>
 
-### Java:
-<p align="justify">Aprendizado em tratamento de execeções em back-end java, e utilização de listas e arrays para manipulação com dados buscados do banco de dados Oracle.</p>
+### Microsoft PowerBI:
+<p align="justify">Utilizei a ferramenta Power BI para criar dashboards mais responsivos e rápidos. Essa solução foi aplicada em várias telas, especialmente em gráficos de controle, como Feedback de Clientes e Gestão de Pessoas. Devido ao alto volume de dados, essa foi a abordagem que melhor atendeu às necessidades do projeto.</p>
 
 </details>
--->
+
 ## Aprendizados efetivos.
 
 ### Hard Skills:
 
 | Tecnologia/Metodologia | Nível|
 | ----- | ----- |
-| Metodologia Ágil | ★★★☆☆ |
-| Java e Springboot | ★★☆☆☆ |
-| PL/SQL | ★★★★☆ |
-| Oracle Autonomous | ★★☆☆☆ |
+| Metodologia Ágil | ★★★★☆ |
+| Java e Springboot | ★★★☆☆ |
+| Microsoft PowerBI | ★★★☆☆ |
+| Vue e JS | ★★★☆☆ |
+| Oracle Autonomous | ★★★☆☆ |
 
 ### Soft Skills:
-<!--
-#### Gestão de Tempo:
-<p align="justify">Grupo com o menor número de participantes em relação aos demais e com algumas baixas ao longo do semestre a gestão de tempo foi fundamental para o desenvolvimento do projeto acompanhando cada tasks com atenção aos prazos e entregas de sprints.</p>
 
-#### Comunicação:
-<p align="justify">Comunicação e troca de informações de forma clara entre cliente, PO e membros do grupo, evitando assim mal-entedimentos e garantindo alinhamento em busca do objetivo que é a entrega da sprint e projeto final.</p>
+#### Organização:
+<p align="justify">Organizei de forma eficiente as atividades atribuídas a mim, mesmo diante de fatores externos, para atender às demandas e não comprometer o progresso do grupo. Essa abordagem garantiu que todas as entregas fossem concluídas dentro dos prazos estabelecidos.</p>
+
+#### Resolução de problemas:
+<p align="justify">Diante de desafios técnicos e situações imprevistas, utilizei uma abordagem analítica para identificar rapidamente a causa raiz dos problemas. Busquei soluções colaborativas com a equipe e apliquei testes iterativos para garantir que os obstáculos fossem superados sem comprometer a qualidade do projeto. Além disso, utilizei recursos externos, como documentação e fóruns técnicos, para encontrar respostas rápidas e eficazes.</p>
 
 #### Trabalho em Equipe:
-<p align="justify">Colaboração e o apoio mútuo, permitindo que as habilidades individuais se complementem, resultando assim em um ambiente em que todos buscam alcançar os objetivos do projeto.</p>
--->
+<p align="justify">Adaptei minha forma de trabalhar para contribuir de maneira mais eficaz com a equipe, especialmente ao enfrentar fatores externos que poderiam impactar o desenvolvimento. Solicitei apoio em algumas tarefas específicas e ofereci ajuda em áreas onde possuía maior domínio, fortalecendo a colaboração e o alinhamento entre os membros do grupo.</p>
+
 <br>
 
 ## Meus Projetos

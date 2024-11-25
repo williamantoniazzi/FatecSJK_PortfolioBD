@@ -40,6 +40,8 @@ Parceiro Acadêmico: [HexTech](https://github.com/GroupHextech).
 ## Projeto em funcionamento.
 <!--
 ![](../docsandimages/4BD_HEXTECH_Final.gif "ACC Embraer HexTech")
+*Wireframes do projeto em funcionamento, exibição em gif*
+*Wireframes do projeto em funcionamento, link para o youtube*
 -->
 ## Contribuições pessoais.
 <!--
