@@ -1,4 +1,4 @@
-# API 5 - 5º Semestre BD, 2023-2 [REFAZER]
+# API 5 - 5º Semestre BD, 2023-2
 
 ## Projeto: Oracle HEXtaurante
 
@@ -87,14 +87,20 @@ Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 
 ### Soft Skills:
 
-#### Organização:
+<details>
+<summary>Organização:<summary>
 <p align="justify">Organizei de forma eficiente as atividades atribuídas a mim, mesmo diante de fatores externos, para atender às demandas e não comprometer o progresso do grupo. Essa abordagem garantiu que todas as entregas fossem concluídas dentro dos prazos estabelecidos.</p>
+</details>
 
-#### Resolução de problemas:
+<details>
+<summary>Resolução de problemas:<summary>
 <p align="justify">Diante de desafios técnicos e situações imprevistas, utilizei uma abordagem analítica para identificar rapidamente a causa raiz dos problemas. Busquei soluções colaborativas com a equipe e apliquei testes iterativos para garantir que os obstáculos fossem superados sem comprometer a qualidade do projeto. Além disso, utilizei recursos externos, como documentação e fóruns técnicos, para encontrar respostas rápidas e eficazes.</p>
+</details>
 
-#### Trabalho em Equipe:
+<details>
+<summary>Trabalho em Equipe:<summary>
 <p align="justify">Adaptei minha forma de trabalhar para contribuir de maneira mais eficaz com a equipe, especialmente ao enfrentar fatores externos que poderiam impactar o desenvolvimento. Solicitei apoio em algumas tarefas específicas e ofereci ajuda em áreas onde possuía maior domínio, fortalecendo a colaboração e o alinhamento entre os membros do grupo.</p>
+</details>
 
 <br>
 
