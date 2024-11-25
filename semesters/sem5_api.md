@@ -40,7 +40,7 @@ Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/).
 - [Oracle Autonomous Database](https://www.oracle.com/br/autonomous-database/)
 - [Oracle MySQL, Test Database](https://www.mysql.com/products/community/)
 
-<summary>Metodologia</summary>
+<summary>Metodologia ágil</summary>
 
 - [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 

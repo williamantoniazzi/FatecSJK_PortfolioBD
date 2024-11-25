@@ -52,7 +52,7 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 
 - Modelagem e gerenciamento do SGBD relacional Oracle Autonomous.
 - Utilização de Springboot e Arquitetura rest.
-- Manipulação de listas em linguagem Java.
+- Manipulação de listas em utilizando linguagem Java.
 - Utilização de código limpo em POO.
 
 ### Back-end

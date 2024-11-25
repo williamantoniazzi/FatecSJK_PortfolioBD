@@ -1,4 +1,4 @@
-# API 3 - 3º Semestre BD, 2022-2 [REFAZER]
+# API 3 - 3º Semestre BD, 2022-2
 
 ## Projeto: Sistema Meteorológico ioWeather.
 
@@ -6,52 +6,85 @@
 
 Parceiro Acadêmico: [IACIT Soluções Tecnológicas](https://www.iacit.com.br/).
 
-<br>
+## Resumo do projeto.
+<p align="justify">IACIT é uma empresa brasileira, fundada em 1986, São 36 anos de experiência que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. Com capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados às áreas de Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio.</p>
 
-## Resumo do projeto:
+<p align="justify">O problema apresentado é a necessidade em armazenar os dados das estações em um banco de dados e a partir destes dados conseguir gertar relátorios e gráficos a seus clientes.</p>
 
-IACIT é uma empresa brasileira, fundada em 1986, São 36 anos de experiência que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. Com capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados às áreas de Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio.
+## Tecnologias adotadas.
+<summary>Front-End</summary>
 
-O problema apresentado é a necessidade em armazenar os dados das estações em um banco de dados e a partir destes dados conseguir gertar relátorios e gráficos a seus clientes.
-<br/>
+- [JavaScript](https://www.javascript.com)
+- [CSS3](https://www.w3schools.com/css/)
+- [Vue](https://vuejs.org/guide/quick-start)
 
-## Tecnologias adotadas:
+<summary>Back-End</summary>
 
-Adotado pelo grupo a criação de um sistema WEB com back-end JAVA (com JPA, Thymeleaf e Hibernate) e base de dados PostgreSQL. O sistema permite a criação de cadastro de novas estações, cliente e visualização de gráfico a partir dos dados já em banco.
+- [Java](https://www.java.com/pt-BR/)
+- [Spring boot](https://spring.io/projects/spring-boot)
+- [Thymeleaf](https://www.thymeleaf.org/)
+- [Hibernate](https://hibernate.org/)
 
-Para a metodologia de desenvolvimento e tarefas utilizamos o [Atlassian JIRA](https://www.atlassian.com/br/software/jira), espaço da [HEXTECH](https://fatecbdsjc.atlassian.net/jira/software/projects/FHTAPI3SEM/boards/1), ferramenta que nos proporcionou a documentação das atividades e meetings, distribuição de tarefas e burdown.
+<summary>Banco de Dados</summary>
 
-Vídeo apresentação do sistema para entrega final e feira de soluções FATEC.
+- [PostgreSQL](https://www.postgresql.org/)
 
-[![](http://img.youtube.com/vi/h1t4SODqV5s/0.jpg)](https://youtu.be/h1t4SODqV5s "API - 2022-2")
+<summary>Metodologia ágil</summary>
+
+- [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
+
+## Projeto em funcionamento.
+<div align="center">
+
+[![](http://img.youtube.com/vi/h1t4SODqV5s/0.jpg)](https://youtu.be/h1t4SODqV5s "HexTech ioWeather")
 
 *Wireframes do projeto em funcionamento, link para o youtube*
+</div>
 
-<br/>
+## Contribuições pessoais.
+<p align="justify">Para esta API fiquei responsável por dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe
+Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.</p>
 
-## Contribuições pessoais e aprendizado:
+<p align="justify">Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática.<p>
 
-Para esta API atribui a responsábilidade para dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe pela primeira vez.
-Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.
+- <p align="justify">Modelagem e gerenciamento do SGBD PostgreSQL.</p>
+- <p align="justify">Utilização de Springboot e Arquitetura rest.</p>
+- <p align="justify">Utilização de ferramentas novas JPA, Thymeleaf e Hibernate.<p>
+<!--
+<details>
+<summary>Banco de Dados</summary>
+  
+### Modelagem do BD e Utilização do PostgreSQL:
+<p align="justify">Executei a conexão do banco de dados com a aplicação, por meio da pasta Wallet e configurando todo o ambiente em que o Banco de dados estava hospedado.</p>
 
-Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática.
-<br/>
+### Implementação de Views, Triggers e Procedures:
+<p align="justify">Desenvolvi consultas SQL eficientes para atender às demandas do aplicativo. Utilizei PL/SQL quando necessário para criar procedimentos armazenados e funções que possam melhorar o desempenho.</p>
+</details>
 
-## Aprendizados efetivos:
+<details>
+<summary>Back-end</summary>
 
-**Hard Skills**
+### Springboot:
+<p align="justify">Implementado o projeto utilizando Spring Boot, Spring Security e Spring Data. Com Spring Boot, alimentei o dashboard e cards via requisições HTTP em arquitetura REST. O Spring Security foi aplicado para criptografar dados sensíveis, e o Spring Data, para operações com o banco de dados.</p>
+
+### Java:
+<p align="justify">Aprendizado em tratamento de execeções em back-end java, e utilização de listas e arrays para manipulação com dados buscados do banco de dados Oracle.</p>
+
+</details>
+-->
+## Aprendizados efetivos.
+
+### Hard Skills:
 
 | Tecnologia/Metodologia | Classificação|
 | ----- | ----- |
-| Metodologia | ★★★★★☆☆☆☆☆ |
-| Java | ★★★☆☆☆☆☆☆☆ |
-| PostgreSQL | ★★★★★★★☆☆☆ |
-| MySQL | ★★★★★★★☆☆☆ |
-| GIT | ★★★★★☆☆☆☆☆ |
+| Metodologia Ágil | ★★★☆☆ |
+| Java e Springboot | ★★☆☆☆ |
+| PostgreSQL | ★★★☆☆ |
+| GIT | ★★★☆☆ |
 
-<br/>
-
-**Soft Skills**
+### Soft Skills:
+<!--
 | Habilidade | Classificação |
 | ----- | ----- |
 | Estratégico | ★★★★★★☆☆☆☆ |
@@ -60,6 +93,15 @@ Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven,
 | Foco | ★★★★★★★★☆☆ |
 | Empatia | ★★★★☆☆☆☆☆☆ |
 
+#### Gestão de Tempo:
+<p align="justify">Grupo com o menor número de participantes em relação aos demais e com algumas baixas ao longo do semestre a gestão de tempo foi fundamental para o desenvolvimento do projeto acompanhando cada tasks com atenção aos prazos e entregas de sprints.</p>
+
+#### Comunicação:
+<p align="justify">Comunicação e troca de informações de forma clara entre cliente, PO e membros do grupo, evitando assim mal-entedimentos e garantindo alinhamento em busca do objetivo que é a entrega da sprint e projeto final.</p>
+
+#### Trabalho em Equipe:
+<p align="justify">Colaboração e o apoio mútuo, permitindo que as habilidades individuais se complementem, resultando assim em um ambiente em que todos buscam alcançar os objetivos do projeto.</p>
+-->
 <br>
 
 ## Meus Projetos

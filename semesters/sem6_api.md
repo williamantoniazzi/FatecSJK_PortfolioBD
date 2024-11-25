@@ -1,4 +1,4 @@
-# API 6 - 6º Semestre BD, 2025-1 [REFAZER]
+# API 6 - 6º Semestre BD, 2025-1 [FAZER]
 
 ## Projeto: HexTech
 
@@ -7,7 +7,6 @@
 Parceiro Acadêmico: [HexTech](https://github.com/GroupHextech).
 
 ## Resumo do projeto.
-
 <!--
 <p align="justify">Desenvolver um sistema de Controle de Configuração de Aeronaves (ACC) para a Embraer, empresa líder em aviação comercial, civil, militar e agrícola.</p>
 
@@ -33,7 +32,7 @@ Parceiro Acadêmico: [HexTech](https://github.com/GroupHextech).
 
 - [Oracle Autonomous Database](https://www.oracle.com/br/autonomous-database/)
 
-<summary>Metodologia</summary>
+<summary>Metodologia ágil</summary>
 
 - [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 -->

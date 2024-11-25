@@ -1,6 +1,6 @@
 <div align="center">
 
-# Portfólio API Tecnólogo em Banco de Dados - William David Antoniazzi
+# Portfolio API Tecnólogo em Banco de Dados - William David Antoniazzi
 
 <!-- <div align="center"> -->
     
@@ -21,9 +21,6 @@
 <p align="justify">Olá, bem-vindo, tudo bem? </p>
 <p align="justify">Eu sou William David Antoniazzi, tenho 37 anos e estou cursando o 5º semestre de Banco de Dados, no qual ingressei no primeiro semestre de 2020. Tenho formação Técnico em Informática pelo <a href="https://www.sp.senac.br/senac-sao-jose-dos-campos" target="_blank">SENAC São José dos Campos/SP</a>, 2007 e Técnologo em Redes de computadores pela <a href="https://www.unicid.edu.br/"target="_blank">UNICID - Universidade Cidade de São Paulo</a>, 2019.</p>
 
-<!-- <p align="justify">Durante a gradução, a cada semestre é desenvovido um projeto integrando as disciplinas do semestre e problemas reais do mercado de trabalho em parcerias com empresas convidadas pela entidade, API - Aprendizagem por Projetos Integrados.
-Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesquisar novas soluções para atender a demanda e construir soluções que atendam o cliente, agregando valor, além de tal base preparar o aluno para os desafios reais do mercado de trabalho. </p> -->
-
 <p align="justify">Atualmente, atuo como Analista de Suporte e Infraestrutura em TI na <a href="https://www.linkedin.com/company/sonacabrasil" target="_blank">Sonaca Brasil LTDA</a>, onde sou responsável pelo gerenciamento e planejamento de infraestrutura, rotas de comunicação e integração de ambientes com redes e computadores.<p>
 
 <p align="justify">Tenho habilidades em redes de computadores e servidores, switches/roteadores, e, com o tecnólogo, busco aprimorar conhecimentos em SGBD's MySQL, PostgreSQL, Oracle, SQL Server, linguagem de programa Python, Java e PHPb. Também aplico metodologias ágeis para a execução de projetos, como Scrum e Kanban.<p>
@@ -35,26 +32,7 @@ Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesqui
 <a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-WilliamAntoniazzi-blue?style=flat-square&logo=github"></a> <a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-WilliamAntoniazzi-blue?style=flat-square&logo=linkedin"></a>
 
 </div>
-<!--
-<table border="0" align="center">
-    <tr>
-        <td colspan="2" align="center"><img src="./docsandimages/william.antoniazzi.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a><br/> Suporte, Redes e Infraestrutura em TI
-        </td>
-    </tr>
-    <tr align="center">
-        <td>
-            <div>
-            <a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-WilliamAntoniazzi-blue?style=flat-square&logo=github"></a>
-            </div>
-        </td>
-        <td>
-            <div>
-            <a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-WilliamAntoniazzi-blue?style=flat-square&logo=linkedin"></a>
-            </div>
-        </td>
-    </tr>
-</table>
--->
+
 <br/>
 
 ---
@@ -70,4 +48,4 @@ Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesqui
 
 ## 
 
-[Home](#portfólio-api-tecnólogo-em-banco-de-dados---william-david-antoniazzi)
+[Home](#portfolio-api-tecnólogo-em-banco-de-dados---william-david-antoniazzi)
