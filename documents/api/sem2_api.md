@@ -7,6 +7,7 @@
 Parceiro Acadêmico: [TecSUS Tecnologias para a Sustentabilidade](https://www.tecsus.com.br/).
 
 ## Resumo do projeto:
+
 <p align="justify">A TecSUS é uma startup de tecnologia da informação, que atua no desenvolvimento de dispositivos, aplicativos e sistemas para transmissão/recepção de dados, controle de equipamentos remotos e gestão da informação, aplicados predominantemente nos setores de abastecimento de água, saneamento, geração e distribuição de eletricidade, distribuição de gás natural e serviços municipais.</p>
 
 <p align="justify">O parceiro pediu uma solução para a gestão de contas. Como eles gerenciam o fornecimento de água, luz e gás, para empresas, industrias e agro, recebem mensalmente milhares de contas das prestadoras de serviço que precisam ser digitalizados por um call center, sendo assim o cliente relata:</p>
@@ -18,6 +19,7 @@ Parceiro Acadêmico: [TecSUS Tecnologias para a Sustentabilidade](https://www.te
 Como isso o sistema que buscam é melhorar esse controle e digitar apenas os campos importantes.
 
 ## Tecnologias adotadas.
+
 <summary>Front-End</summary>
 
 - [HTML](https://www.w3schools.com/html/default.asp)
@@ -38,9 +40,10 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 - [Atlassian Trello](https://trello.com/pt-BR)
 
 ## Projeto em funcionamento.
+
 <div align="center">
 
-![](../docsandimages/2BD_DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
+![](/documents/2BD_DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
 
 *Wireframes do projeto em funcionamento, exibição em gif*
 
@@ -59,6 +62,7 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 <p align="justify"><b>Java Spring Boot:</b> O Spring Boot é um framework que torna fácil a criação de aplicações Web autossuficientes e robustas, possibilitando a execução imediata. Contudo isso só é possível por conta da abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros. A utilização desta framework em back-end trouxe facilidade durante a programação com a linguagem Java.</p>
 
 ### Front-end
+
 <p align="justify"><b>JavaScript:</b> Utilizado para validação dos campos e criar interação nas páginas como menu suspensos, campos do formulário e gráficos.</p>
 
 <p align="justify"><b>HTML:</b> Utilizado para estruturar as páginas front-end. A Linguagem de Marcação de Hipertexto é uma linguagem de computador usado para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série de marcações que dizem para os servidores qual é o estilo e a estrutura de um documento.</p>
@@ -66,26 +70,29 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 <p align="justify"><b>CSS:</b> CSS é uma linguagem usada para estilizar elementos escritos em uma linguagem de marcação como HTML. Aprendizado e aplicados a linguagem para criar grupos de estilização para a página front-end.</p>
 
 ### SGBD
+
 <p align="justify"><b>MySQL Community:</b> Modelagem de forma eficiente considerando as relações entre as entidade, utilizando a normalização de Banco de Dados, chegando até a 3ª forma normal, criação e utlização de triggers para determinadas ações.</p>
 
 ### Metodologia ágil
+
 <p align="justify"><b>Atlassian Trello:</b> Trello utiliza o paradigma Kanban para gerenciamento de projetos. Nele foram centralizados cards com tarefas para cada membro da equipe da avaliação até sua conclusão.</p>
 
 ## Aprendizados efetivos:
 
 ### Hard Skills:
 
-- **JavaScript:** Uso com ajuda: validação de campos e interações (menus suspensos, formulários, gráficos).</p>
-- **HTML / CSS:** Uso com autonomia: estruturação e estilização das páginas front-end do sistema.</p>
-- **Java / Spring Boot:** Uso com ajuda: primeiro contato com o framework para construção de aplicação web autossuficiente.</p>
-- **SGBD MySQL Community:** Uso com autonomia: modelagem relacional normalizada até a 3ª forma normal, criação de triggers.</p>
-- **Metodologia Ágil (Trello/Kanban):** Uso com autonomia: gestão de tasks da equipe durante o período remoto (COVID).</p>
-- **GitHub:** Uso com autonomia: versionamento consolidado ao longo do semestre.
+- <p align="justify"><b>JavaScript:</b> Uso com ajuda: validação de campos e interações (menus suspensos, formulários, gráficos).</p>
+- <p align="justify"><b>HTML / CSS:</b> Uso com autonomia: estruturação e estilização das páginas front-end do sistema.</p>
+- <p align="justify"><b>Java / Spring Boot:</b> Uso com ajuda: primeiro contato com o framework para construção de aplicação web autossuficiente.</p>
+- <p align="justify"><b>SGBD MySQL Community:</b> Uso com autonomia: modelagem relacional normalizada até a 3ª forma normal, criação de triggers.</p>
+- <p align="justify"><b>Metodologia Ágil (Trello/Kanban):</b> Uso com autonomia: gestão de tasks da equipe durante o período remoto (COVID).</p>
+- <p align="justify"><b>GitHub:</b> Uso com autonomia: versionamento consolidado ao longo do semestre.
 
 ### Soft Skills:
-- **Trabalho em Equipe:** Trabarlhar em equipe após a primeira API se tornou mais prático e fácil, porém durante o semestre ocorreu COVID e também a utilização das aulas remotas, então neste periódo ao grupo teve que se adaptar com as reuniões e cobranças em tasks.</p>
-- **Gestão de tempo:** Com o fator das aulas remotas e entregas e reuniões online, houve uma adaptação e melhoria na gestão de tempo, obtendo mais tempo para estudos e codigos para o projeto.</p>
-- **Estratégia:** Com a mudançado no formato das aulas de presencial para remoto devido a COVID, houveram algumas saídas de integrantes do grupo, então, aos que ficaram remanejamos as tarefas, responsabilidades para garantias as entregas com valor para o cliente.</p>
+
+- <p align="justify"><b>Trabalho em Equipe:</b> Trabarlhar em equipe após a primeira API se tornou mais prático e fácil, porém durante o semestre ocorreu COVID e também a utilização das aulas remotas, então neste periódo ao grupo teve que se adaptar com as reuniões e cobranças em tasks.</p>
+- <p align="justify"><b>Gestão de tempo:</b> Com o fator das aulas remotas e entregas e reuniões online, houve uma adaptação e melhoria na gestão de tempo, obtendo mais tempo para estudos e codigos para o projeto.</p>
+- <p align="justify"><b>Estratégia:</b> Com a mudançado no formato das aulas de presencial para remoto devido a COVID, houveram algumas saídas de integrantes do grupo, então, aos que ficaram remanejamos as tarefas, responsabilidades para garantias as entregas com valor para o cliente.</p>
 
 <br>
 
@@ -95,3 +102,6 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
     <a href="#ddc">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
     <a href="#meus-projetos">🏠 Voltar para o início da página</a>
   </p>
+
+  <br>
+
