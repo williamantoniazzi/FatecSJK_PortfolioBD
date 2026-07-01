@@ -46,7 +46,7 @@
 ## Meus Projetos
 
 <details>
-<summary><b id="assistente-pet" style="display: inline;">1º Semestre 2020-1: Fatec - Assistente Pessoal PET</b></summary>
+<summary><b id="assistente-pet">1º Semestre 2020-1: Fatec - Assistente Pessoal PET</b></summary>
 
 ## Projeto: Assistente Pessoal Pet.
 
@@ -144,7 +144,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 </details>
 
 <details>
-<summary><b id="ddc" style="display: inline;">2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC</b></summary>
+<summary><b id="ddc"> 2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC</b></summary>
 
 ## Projeto: Sistema de digitação de contas DDC.
 
