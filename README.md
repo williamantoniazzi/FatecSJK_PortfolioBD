@@ -138,14 +138,12 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 <hr>
 
-  <p align="right">
-    <a href="#assistente-pet">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
-    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+  <p align="center">
+    <a href="#projeto-assistente-pessoal-pet">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
   </p>
 
 </details>
-
-<br>
 
 <details>
 <summary><h3 id="ddc" style="display: inline;">2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC</h3></summary>
@@ -245,9 +243,9 @@ Metodologia ágil:
 
 <hr>
 
-  <p align="right">
+  <p align="center">
     <a href="#ddc">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
-    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+    <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
   </p>
 
 </details>
