@@ -96,15 +96,9 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 
 <br>
 
-## Meus Projetos
+<hr>
 
-1º Semestre 2020-1: [Assistente Pessoal PET](./sem1_api.md). <br/>
-2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./sem2_api.md). <br/>
-3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./sem3_api.md). <br/>
-4º Semestre 2023-1: [HexTech - Aircraft Configuration Control (ACC)](./sem4_api.md). <br/>
-5º Semestre 2023-2: [HexTech - HEXTaurante](./sem5_api.md). <br/> 
-6º Semestre 2025-1: <br/>
-
-#
-
-[Home](../README.md)
+  <p align="right">
+    <a href="#acc">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+  </p>

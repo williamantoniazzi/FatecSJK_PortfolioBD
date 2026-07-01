@@ -83,46 +83,25 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 
 ### Hard Skills:
 
-| Tecnologia/Metodologia | Classificação|
-| ----- | ----- |
-| Metodologia Ágil | ★★★☆☆ |
-| Java e Springboot | ★★☆☆☆ |
-| PostgreSQL | ★★★☆☆ |
-| GIT | ★★★☆☆ |
+- **Java / Spring Boot:** Uso com ajuda: criação de projeto web/microservice, empacotamento JAR com Tomcat embutido, configuração de POM.xml.</p>
+- **JPA / Hibernate:** Uso com ajuda: mapeamento objeto-relacional e CRUD com menos código repetitivo.</p>
+- **Thymeleaf:** Uso com ajuda: construção de views dinâmicas integradas ao padrão MVC.</p>
+- **PostgreSQL:** Uso com autonomia: modelagem, integração local e criação de triggers e procedures.</p>
+- **Metodologia Ágil (JIRA/Scrum):** Uso com autonomia: atuação como Scrum Master, planejamento e distribuição de tarefas da equipe.</p>
+- **GIT:** Uso com autonomia: controle de versão consolidado.
 
 ### Soft Skills:
 
-<details>
-<summary>Organização:</summary>
-<p align="justify"></p>
-</details>
-
-<details>
-<summary>Analitico:</summary>
-<p align="justify"></p>
-</details>
-
-<details>
-<summary>Trabalho em Equipe:</summary>
-<p align="justify"></p>
-</details>
-
-<details>
-<summary>Empatia:</summary>
-<p align="justify"></p>
-</details>
+- **Organização:** Atuando simultaneamente como desenvolvedor e Scrum Master, precisei organizar minhas próprias entregas técnicas junto ao planejamento e acompanhamento das tarefas da equipe, estruturando as sprints no JIRA e garantindo que os prazos fossem cumpridos.</p>
+- **Analitico:** O contato com ferramentas novas como PostgreSQL, JPA, Thymeleaf e Maven exigiu uma análise cuidadosa de cada tecnologia antes de aplicá-la ao projeto, além da necessidade de avaliar o desempenho da equipe para distribuir tarefas de acordo com as habilidades e o tempo disponível de cada integrante.</p>
+- **Trabalho em Equipe:** Como Scrum Master, atuei diretamente na coordenação do time, promovendo o alinhamento entre os membros e assegurando que as entregas seguissem as metodologias ágeis, o que fortaleceu minha capacidade de colaborar e mediar o trabalho em grupo.</p>
+- **Empatia:** O papel de Scrum Master exigiu compreender as dificuldades individuais de cada membro da equipe diante de ferramentas novas e complexas, buscando apoiar e ajustar as demandas conforme a realidade e o ritmo de cada um.</p>
 
 <br>
 
-## Meus Projetos
+<hr>
 
-1º Semestre 2020-1: [Assistente Pessoal PET](./sem1_api.md). <br/>
-2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./sem2_api.md). <br/>
-3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./sem3_api.md). <br/>
-4º Semestre 2023-1: [HexTech - Aircraft Configuration Control (ACC)](./sem4_api.md). <br/>
-5º Semestre 2023-2: [HexTech - HEXTaurante](./sem5_api.md). <br/> 
-6º Semestre 2025-1: <br/>
-
-#
-
-[Home](../README.md)
+  <p align="right">
+    <a href="#ioweather">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+  </p>

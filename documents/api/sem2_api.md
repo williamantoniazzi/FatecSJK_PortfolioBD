@@ -75,41 +75,23 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 
 ### Hard Skills:
 
-| Tecnologia/Metodologia | Nível|
-| ----- | ----- |
-| Metodologia Ágil | ★★☆☆☆ |
-| JavaScript | ★★☆☆☆ |
-| Spring Boot | ★★☆☆☆ |
-| SGBD MySQL | ★★☆☆☆ |
-| GitHub | ★★★☆☆|
+- **JavaScript:** Uso com ajuda: validação de campos e interações (menus suspensos, formulários, gráficos).</p>
+- **HTML / CSS:** Uso com autonomia: estruturação e estilização das páginas front-end do sistema.</p>
+- **Java / Spring Boot:** Uso com ajuda: primeiro contato com o framework para construção de aplicação web autossuficiente.</p>
+- **SGBD MySQL Community:** Uso com autonomia: modelagem relacional normalizada até a 3ª forma normal, criação de triggers.</p>
+- **Metodologia Ágil (Trello/Kanban):** Uso com autonomia: gestão de tasks da equipe durante o período remoto (COVID).</p>
+- **GitHub:** Uso com autonomia: versionamento consolidado ao longo do semestre.
 
 ### Soft Skills:
-<details>
-<summary>Trabalho em Equipe:</summary>
-<p align="justify">Trabarlhar em equipe após a primeira API se tornou mais prático e fácil, porém durante o semestre ocorreu COVID e também a utilização das aulas remotas, então neste periódo ao grupo teve que se adaptar com as reuniões e cobranças em tasks.</p>
-</details>
-
-<details>
-<summary>Gestão de tempo:</summary>
-<p align="justify">Com o fator das aulas remotas e entregas e reuniões online, houve uma adaptação e melhoria na gestão de tempo, obtendo mais tempo para estudos e codigos para o projeto.</p>
-</details>
-
-<details>
-<summary>Estratégia:</summary>
-<p align="justify">Com a mudançado no formato das aulas de presencial para remoto devido a COVID, houveram algumas saídas de integrantes do grupo, então, aos que ficaram remanejamos as tarefas, responsabilidades para garantias as entregas com valor para o cliente.</p>
-</details>
+- **Trabalho em Equipe:** Trabarlhar em equipe após a primeira API se tornou mais prático e fácil, porém durante o semestre ocorreu COVID e também a utilização das aulas remotas, então neste periódo ao grupo teve que se adaptar com as reuniões e cobranças em tasks.</p>
+- **Gestão de tempo:** Com o fator das aulas remotas e entregas e reuniões online, houve uma adaptação e melhoria na gestão de tempo, obtendo mais tempo para estudos e codigos para o projeto.</p>
+- **Estratégia:** Com a mudançado no formato das aulas de presencial para remoto devido a COVID, houveram algumas saídas de integrantes do grupo, então, aos que ficaram remanejamos as tarefas, responsabilidades para garantias as entregas com valor para o cliente.</p>
 
 <br>
 
-## Meus Projetos
+<hr>
 
-1º Semestre 2020-1: [Assistente Pessoal PET](./sem1_api.md). <br/>
-2º Semestre 2020-2: [Sistema de Digitação de Contas DDC](./sem2_api.md). <br/>
-3º Semestre 2022-2: [HexTech - Estações e Clima "ioWEATHER"](./sem3_api.md). <br/>
-4º Semestre 2023-1: [HexTech - Aircraft Configuration Control (ACC)](./sem4_api.md). <br/>
-5º Semestre 2023-2: [Hextech - HEXTaurante](./sem5_api.md). <br/> 
-6º Semestre 2025-1: <br/>
-
-#
-
-[Home](../README.md)
+  <p align="right">
+    <a href="#ddc">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+  </p>
