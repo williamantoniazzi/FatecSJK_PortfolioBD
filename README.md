@@ -46,7 +46,7 @@
 ## Meus Projetos
 
 <details>
-<summary><h3 id="assistente-pet" style="display: inline;">1º Semestre 2020-1: Fatec - Assistente Pessoal PET</h3></summary>
+<summary><b id="assistente-pet" style="display: inline;">1º Semestre 2020-1: Fatec - Assistente Pessoal PET</b></summary>
 
 ## Projeto: Assistente Pessoal Pet.
 
@@ -134,8 +134,6 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 - <p align="justify"><b>Aprendizado:</b> Buscar fontes confiáveis, materiais complementares e adquirir conhecimento em uma linguagem/SGBD totalmente nova, foram desafios durante o semestre, porém muito válidos para referência no mercado de trabalho e para o andamento dos demais semestres que virão.</p>
 - <p align="justify"><b>Comunicação:</b> Desafio da comunicação por iniciar o trabalho com pessoas novas e com habilidades não niveladas, pois alguns já atuavam na área de programação e outro não, mas ao chegar na 3ª Sprint do projeto conseguimos obter resultados com comunicação clara e assertiva sobre cada escopo e tarefa do projeto.</p>
 
-<br>
-
 <hr>
 
   <p align="center">
@@ -146,7 +144,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 </details>
 
 <details>
-<summary><h3 id="ddc" style="display: inline;">2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC</h3></summary>
+<summary><b id="ddc" style="display: inline;">2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC</b></summary>
 
 ## Projeto: Sistema de digitação de contas DDC.
 
@@ -239,8 +237,6 @@ Metodologia ágil:
 - <p align="justify"><b>Gestão de tempo:</b> Com o fator das aulas remotas e entregas e reuniões online, houve uma adaptação e melhoria na gestão de tempo, obtendo mais tempo para estudos e codigos para o projeto.</p>
 - <p align="justify"><b>Estratégia:</b> Com a mudançado no formato das aulas de presencial para remoto devido a COVID, houveram algumas saídas de integrantes do grupo, então, aos que ficaram remanejamos as tarefas, responsabilidades para garantias as entregas com valor para o cliente.</p>
 
-<br>
-
 <hr>
 
   <p align="center">
@@ -250,10 +246,8 @@ Metodologia ágil:
 
 </details>
 
-<br>
-
 <details>
-<summary><h3 id="ioweather" style="display: inline;">3º Semestre 2022-2: IACIT - Sistema Meteorológico, ioWeather</h3></summary>
+<summary><b id="ioweather" style="display: inline;">3º Semestre 2022-2: IACIT - Sistema Meteorológico, ioWeather</b></summary>
 
 ## Projeto: Sistema Meteorológico ioWeather.
 
@@ -344,18 +338,14 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 - <p align="justify"><b>Trabalho em Equipe:</b> Como Scrum Master, atuei diretamente na coordenação do time, promovendo o alinhamento entre os membros e assegurando que as entregas seguissem as metodologias ágeis, o que fortaleceu minha capacidade de colaborar e mediar o trabalho em grupo.</p>
 - <p align="justify"><b>Empatia:</b>O papel de Scrum Master exigiu compreender as dificuldades individuais de cada membro da equipe diante de ferramentas novas e complexas, buscando apoiar e ajustar as demandas conforme a realidade e o ritmo de cada um.</p>
 
-<br>
-
 <hr>
 
-  <p align="right">
+  <p align="center">
     <a href="#ioweather">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
     <a href="#meus-projetos">🏠 Voltar para o início da página</a>
   </p>
 
 </details>
-
-<br>
 
 <details>
 <summary><h3 id="acc" style="display: inline;">4º Semestre 2023-1: Embraer - Aircraft Configuration Control, ACC</h3></summary>
