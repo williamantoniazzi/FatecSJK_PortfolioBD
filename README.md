@@ -342,13 +342,13 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 
   <p align="center">
     <a href="#ioweather">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
-    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+    <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
   </p>
 
 </details>
 
 <details>
-<summary><h3 id="acc" style="display: inline;">4º Semestre 2023-1: Embraer - Aircraft Configuration Control, ACC</h3></summary>
+<summary><b id="acc">4º Semestre 2023-1: Embraer - Aircraft Configuration Control, ACC</b></summary>
 
 ## Projeto: Aircraft Configuration Control (ACC)
 
@@ -434,36 +434,40 @@ Metodologia ágil:
 - <p align="justify"><b>Comunicação:</b> Priorizei uma comunicação clara e objetiva entre o cliente, o Product Owner (PO) e a equipe, evitando mal-entendidos e garantindo o alinhamento necessário para o cumprimento das entregas.</p>
 - <p align="justify"><b>Trabalho em Equipe:</b> Foquei na colaboração e no suporte mútuo, valorizando as habilidades individuais para criar um ambiente de sinergia e alcançar os objetivos do projeto de forma integrada.</p>
 
-<br>
-
 <hr>
 
-  <p align="right">
+  <p align="center">
     <a href="#acc">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
-    <a href="#meus-projetos">🏠 Voltar para o início da página</a>
+    <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
   </p>
 
 </details>
 
-<br>
-
 <details>
-<summary><h3 id="scar" style="display: inline;">5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos, SCAR</h3></summary>
-
-<br>
+<summary><b id="scar">5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos, SCAR</b></summary>
 
 Todo o conteúdo vai aqui...
+
+<hr>
+
+  <p align="center">
+    <a href="#scar">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
+  </p>
 
 </details>
 
-<br>
-
 <details>
-<summary><h3 id="kpi-cards" style="display: inline;">6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados, KPI Cards</h3></summary>
-
-<br>
+<summary><b id="kpi-cards">6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados, KPI Cards</b></summary>
 
 Todo o conteúdo vai aqui...
+
+<hr>
+
+  <p align="center">
+    <a href="#kpi-cards">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
+  </p>
 
 </details>
 
