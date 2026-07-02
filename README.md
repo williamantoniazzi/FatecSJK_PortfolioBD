@@ -472,8 +472,8 @@ DevOps: [GitHub Actions](https://docs.github.com/pt/actions)
 
 <div align="center">
 
-<!-- [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2") -->
-http://143.198.2.189:5173/login -- fazer um vídeo???
+<!-- [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2") 
+http://143.198.2.189:5173/login -- fazer um vídeo??? -->
 *Demonstração do sistema em funcionamento, link para o youtube*
 
 </div>
