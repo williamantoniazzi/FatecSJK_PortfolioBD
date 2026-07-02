@@ -2,10 +2,6 @@
 
 # Portfólio API - Tecnólogo em Banco de Dados
 
-<!-- <div align="center"> 
-    
-![FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal](./docsandimages/fatec/prediosjk771x300.png)
--->
 </div>
 
 
@@ -36,7 +32,7 @@
 <img src="./documents/william.antoniazzi.jpg" width="200px;"/><br/>
 <b>William Antoniazzi</b>
 <p>Suporte, Redes e Infraestrutura em TI</p>
-<a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-WilliamAntoniazzi-blue?style=flat-square&logo=github"></a> <a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-WilliamAntoniazzi-blue?style=flat-square&logo=linkedin"></a><a href="mailto:william.antoniazzi@gmail.com"><img src="https://img.shields.io/badge/Gmail-william.antoniazzi-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-WilliamAntoniazzi-blue?style=flat-square&logo=github"></a>&nbsp;<a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-WilliamAntoniazzi-blue?style=flat-square&logo=linkedin"></a>&nbsp;<a href="mailto:william.antoniazzi@gmail.com"><img src="https://img.shields.io/badge/Gmail-william.antoniazzi-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
 
 </div>
 
@@ -110,7 +106,6 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 <p align="justify"><b>Tkinter:</b> É uma biblioteca do Python, utilizando mesma linguagem o que facilitou o aprendizado, com este contribuí com a criação de todas as telas do projeto, Controle de ração, Autenticação, Cadastro do pet e realizei a integração Back-end com o Front-end.</p>
 
-
 ### SGBD:
 
 <p align="justify"><b>MySQL Community:</b> Modelagem de forma eficiente considerando as relações entre as entidades e utlização de triggers para determinadas ações.</p>
@@ -134,7 +129,6 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 - <p align="justify"><b>Trabalho em Equipe:</b> Início das atividades em grupo do curso, desafio em atingir objetivo sem ainda saber as habilidades de cada um, porém foi um grande aprendizado em saber avaliar o ambiente e habilidade de cada um no grupo para assim auxiliar ou procurar auxilio em determinadas tarefas.</p>
 - <p align="justify"><b>Aprendizado:</b> Buscar fontes confiáveis, materiais complementares e adquirir conhecimento em uma linguagem/SGBD totalmente nova, foram desafios durante o semestre, porém muito válidos para referência no mercado de trabalho e para o andamento dos demais semestres que virão.</p>
 - <p align="justify"><b>Comunicação:</b> Desafio da comunicação por iniciar o trabalho com pessoas novas e com habilidades não niveladas, pois alguns já atuavam na área de programação e outro não, mas ao chegar na 3ª Sprint do projeto conseguimos obter resultados com comunicação clara e assertiva sobre cada escopo e tarefa do projeto.</p>
-
 
 ## Conclusão
 
@@ -238,7 +232,6 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 - <p align="justify"><b>Gestão de tempo:</b> Com o fator das aulas remotas e entregas e reuniões online, houve uma adaptação e melhoria na gestão de tempo, obtendo mais tempo para estudos e codigos para o projeto.</p>
 - <p align="justify"><b>Estratégia:</b> Com a mudançado no formato das aulas de presencial para remoto devido a COVID, houveram algumas saídas de integrantes do grupo, então, aos que ficaram remanejamos as tarefas, responsabilidades para garantias as entregas com valor para o cliente.</p>
 
-
 ## Conclusão
 
 <p align="justify">Esta API representou um importante avanço em relação ao primeiro semestre, consolidando conhecimentos em desenvolvimento web, banco de dados e trabalho em equipe. Além do contato com novas tecnologias, como Java e Spring Boot, pude aprofundar meus conhecimentos em modelagem de dados, desenvolvimento de interfaces e integração entre as camadas da aplicação. Outro grande desafio foi a adaptação ao trabalho remoto durante a pandemia da COVID-19, exigindo organização, comunicação e comprometimento para manter o andamento do projeto. Ao final deste semestre, percebi uma evolução significativa na minha autonomia como desenvolvedor e na capacidade de colaborar efetivamente com a equipe para entregar uma solução alinhada às necessidades do cliente.</p>
@@ -334,7 +327,6 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 - <p align="justify"><b>Analitico:</b> O contato com ferramentas novas como PostgreSQL, JPA, Thymeleaf e Maven exigiu uma análise cuidadosa de cada tecnologia antes de aplicá-la ao projeto, além da necessidade de avaliar o desempenho da equipe para distribuir tarefas de acordo com as habilidades e o tempo disponível de cada integrante.</p>
 - <p align="justify"><b>Trabalho em Equipe:</b> Como Scrum Master, atuei diretamente na coordenação do time, promovendo o alinhamento entre os membros e assegurando que as entregas seguissem as metodologias ágeis, o que fortaleceu minha capacidade de colaborar e mediar o trabalho em grupo.</p>
 - <p align="justify"><b>Empatia:</b>O papel de Scrum Master exigiu compreender as dificuldades individuais de cada membro da equipe diante de ferramentas novas e complexas, buscando apoiar e ajustar as demandas conforme a realidade e o ritmo de cada um.</p>
-
 
 ## Conclusão
 
@@ -446,7 +438,110 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 <details>
 <summary><b id="scar">5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos, SCAR</b></summary>
 
-Todo o conteúdo vai aqui...
+## Projeto: Sistema de Controle e Acompanhamento de Recursos - SCAR
+
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/Steam-Ducks/strategic-cost-analytics) &nbsp; [![Confluence](https://img.shields.io/badge/Confluence-Wiki-172B4D?logo=confluence&logoColor=white)](https://steam-ducks.atlassian.net/wiki/spaces/SCA/pages/13205505/Integration+tests) &nbsp; [![Deploy](https://img.shields.io/badge/Deploy-Online-success?logo=docker&logoColor=white)](http://143.198.2.189:5173/login)
+
+Parceiro Acadêmico: [SIATT](https://www.siatt.com.br/a-empresa?lang=pt).
+
+## Resumo do projeto
+
+<p align="justify">A <b>SIATT (Sistemas Integrados de Alto Teor Tecnológico)</b> é uma Empresa Estratégica de Defesa (EED) brasileira, reconhecida pelo desenvolvimento de sistemas de defesa e segurança de alta tecnologia. Com atuação nacional e internacional, a empresa é especializada em armamentos inteligentes, sistemas embarcados, integração de plataformas militares e soluções voltadas aos setores de defesa, segurança e aeroespacial. Seu histórico de inovação e projetos estratégicos evidencia a necessidade de ferramentas capazes de fornecer informações confiáveis para o gerenciamento de recursos e custos.</p>
+
+<p align="justify">Nesse contexto, a SIATT apresentou o desafio de consolidar informações estratégicas relacionadas aos custos de seus projetos. Os dados encontravam-se distribuídos entre planilhas e diferentes sistemas, dificultando a rastreabilidade das informações, a comparação entre projetos, o acompanhamento orçamentário e a obtenção de indicadores confiáveis para apoiar a tomada de decisão.</p>
+
+<p align="justify">Para atender a essa necessidade, desenvolvemos o <b>SCARS (Sistema de Controle e Acompanhamento de Recursos)</b>, uma plataforma analítica voltada à consolidação e visualização de custos de projetos estratégicos. A solução foi construída sobre um <b>Data Warehouse</b>, responsável por integrar informações de materiais, horas técnicas, projetos, programas e indicadores orçamentários, criando uma base histórica e estruturada para análise dos dados.</p>
+
+<p align="justify">A partir desse Data Warehouse, o sistema disponibiliza dashboards e indicadores que permitem análises multidimensionais sob diferentes perspectivas, como tempo, programa, projeto, material, colaborador e situação financeira. Dessa forma, a solução oferece maior visibilidade sobre os custos, facilita o acompanhamento da saúde financeira dos projetos e fornece informações estratégicas para apoiar o planejamento e a tomada de decisão da empresa.</p>
+
+## Tecnologias adotadas
+
+Front-end: [Vue 3](https://vuejs.org/guide/quick-start.html) e [Nuxt 4](https://nuxt.com/docs/4.x/getting-started/introduction)
+
+Back-end: [Python](https://www.python.org/) e [Django](https://docs.djangoproject.com/en/6.0/)
+
+SGBD: [PostgreSQL](https://www.postgresql.org/docs/17/index.html)
+
+Infraestrutura: [Docker](https://docs.docker.com/) e [Docker Compose](https://docs.docker.com/compose/)
+
+Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira) e [Confluence](https://steam-ducks.atlassian.net/wiki/spaces/SCA/overview?homepageId=98415)
+
+DevOps: [GitHub Actions](https://docs.github.com/pt/actions)
+
+## Projeto em funcionamento
+
+<div align="center">
+
+<!-- [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2") 
+http://143.198.2.189:5173/login -- fazer um vídeo??? -->
+*Demonstração do sistema em funcionamento, link para o youtube*
+
+</div>
+
+- <p align="justify"><b>Front-end:</b> O Front-end foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, responsável pela construção dos dashboards analíticos, gráficos e indicadores que permitiam visualizar custos, evolução temporal dos projetos e demais métricas consolidadas pelo Data Warehouse.</p>
+
+- <p align="justify"><b>Back-end:</b> O Back-end foi desenvolvido em Python utilizando Django, disponibilizando APIs responsáveis pela comunicação com o Front-end, processamento das regras de negócio e acesso às informações armazenadas no banco de dados.</p>
+
+- <p align="justify"><b>Data Warehouse:</b> O projeto teve como principal objetivo a construção de um Data Warehouse para consolidar informações provenientes de diferentes fontes, permitindo análises históricas e multidimensionais sobre projetos, programas, materiais, colaboradores e indicadores financeiros.</p>
+
+- <p align="justify"><b>PostgreSQL:</b> O PostgreSQL foi utilizado como banco de dados da solução, armazenando o modelo dimensional do Data Warehouse e possibilitando consultas analíticas eficientes para geração dos indicadores apresentados nos dashboards.</p>
+
+- <p align="justify"><b>Infraestrutura:</b> A aplicação foi executada em um ambiente containerizado utilizando Docker e Docker Compose, garantindo padronização entre os ambientes de desenvolvimento, testes e implantação.</p>
+
+- <p align="justify"><b>DevOps:</b> Um dos principais diferenciais do projeto foi a implementação de uma esteira de Integração Contínua (CI) utilizando GitHub Actions. Foram automatizadas etapas de lint, testes, validação de qualidade e integração contínua, proporcionando maior confiabilidade ao processo de desenvolvimento. Além disso, foi adotada a estratégia <i>Shift Left Testing</i>, combinando testes End-to-End realizados pelo Front-end com testes de integração desenvolvidos no Back-end, antecipando a identificação de falhas e aumentando a qualidade das entregas.</p>
+
+- <p align="justify"><b>Metodologia Ágil:</b> A organização das atividades foi realizada utilizando Scrum com apoio do Jira para gerenciamento das sprints e do Confluence para centralização da documentação técnica e funcional do projeto.</p>
+
+## Contribuições pessoais
+
+<p align="justify">Ingressei na equipe a partir da segunda sprint, quando o projeto já estava em andamento. A organização do time seguia uma abordagem Full Stack, na qual cada funcionalidade envolvia desde a consulta dos dados no banco, implementação dos endpoints no Back-end e integração com o Front-end para apresentação das informações ao usuário.</p>
+<p align="justify">Minha principal contribuição foi no desenvolvimento da Dashboard principal da aplicação, criando a página inicial do sistema, os gráficos e indicadores estratégicos, além da integração entre o Front-end e as APIs responsáveis por fornecer os dados consolidados do Data Warehouse.</p>
+<p align="justify">O maior aprendizado deste projeto, entretanto, esteve na área de DevOps e Qualidade de Software. Fiquei responsável por estruturar a estratégia de testes de integração do Back-end, complementando os testes End-to-End desenvolvidos pelo Front-end e contribuindo para uma esteira de integração contínua mais confiável.</p>
+
+<p align="justify">Durante este projeto, meus principais desafios foram:</p>
+
+- <p align="justify">Desenvolver a Dashboard principal e integrar seus componentes às APIs do Back-end.</p>
+- <p align="justify">Compreender o fluxo completo da aplicação, desde a obtenção dos dados até sua visualização em dashboards analíticos.</p>
+- <p align="justify">Estruturar testes de integração para validar os contratos entre os serviços da aplicação.</p>
+- <p align="justify">Aplicar conceitos de DevOps, Integração Contínua e qualidade de software utilizando GitHub Actions.</p>
+
+### Front-end:
+
+<p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Atuei no desenvolvimento da Dashboard principal da plataforma, implementando a página inicial, gráficos e indicadores estratégicos. Também realizei a integração da interface com as APIs do Back-end, consolidando minha experiência no desenvolvimento de aplicações analíticas utilizando componentes reutilizáveis e consumo de APIs REST.</p>
+
+### Back-end (Integração):
+
+<p align="justify"><b>Integração das APIs:</b> Como cada funcionalidade era desenvolvida de forma Full Stack, participei da integração entre Front-end e Back-end, consumindo os endpoints responsáveis por disponibilizar os dados consolidados do Data Warehouse e garantindo sua correta apresentação na interface.</p>
+
+### DevOps e Qualidade de Software:
+
+<p align="justify"><b>Testes de Integração, GitHub Actions e Shift Left Testing:</b> Este foi o principal aprendizado do semestre. Fiquei responsável por estudar e implementar uma estratégia de testes de integração para o Back-end, adotando conceitos de Shift Left Testing para antecipar a validação das funcionalidades ainda durante o desenvolvimento. Os cenários de teste foram planejados antes da implementação das funcionalidades, seguindo princípios de Acceptance Test-Driven Development (ATDD), utilizando marcações <i>xfail</i> para requisitos ainda não concluídos e garantindo que os testes evoluíssem junto com a aplicação.</p>
+
+<p align="justify">Também participei da configuração da esteira de Integração Contínua utilizando GitHub Actions, automatizando a execução dos testes sempre que novas alterações eram enviadas ao repositório. Essa experiência ampliou significativamente minha visão sobre qualidade de software, automação de testes e práticas DevOps, demonstrando na prática como reduzir falhas de integração e aumentar a confiabilidade das entregas.</p>
+
+## Aprendizados efetivos
+
+### Hard Skills:
+
+- <p align="justify"><b>Vue 3 / Nuxt 4 / TypeScript:</b> Uso com autonomia: desenvolvimento da Dashboard principal da aplicação, criação de gráficos e integração com APIs REST para exibição dos indicadores estratégicos.</p>
+- <p align="justify"><b>Python / Django:</b> Uso com ajuda: compreensão da estrutura do Back-end e integração dos endpoints necessários para consumo dos dados no Front-end.</p>
+- <p align="justify"><b>PostgreSQL:</b> Uso com autonomia: realização de consultas para entendimento da estrutura dos dados utilizados nos dashboards, sem atuação na modelagem do banco.</p>
+- <p align="justify"><b>Testes de Integração (Pytest):</b> Uso com autonomia: planejamento e implementação de testes de integração para validação dos serviços do Back-end, garantindo maior confiabilidade durante o desenvolvimento.</p>
+- <p align="justify"><b>DevOps (GitHub Actions):</b> Uso com autonomia: implementação e automação da execução dos testes de integração na pipeline de Integração Contínua, fortalecendo as práticas de qualidade do projeto.</p>
+- <p align="justify"><b>Metodologia Ágil (JIRA e Confluence):</b> Uso com autonomia: acompanhamento das sprints, documentação técnica e organização das atividades da equipe.</p>
+- <p align="justify"><b>GitHub:</b> Uso com autonomia: versionamento, Code Review e utilização de Pull Requests durante o desenvolvimento colaborativo.</p>
+
+### Soft Skills:
+
+- <p align="justify"><b>Adaptabilidade:</b> Entrar na equipe a partir da segunda sprint exigiu rápida compreensão da arquitetura, do fluxo de desenvolvimento e das tecnologias utilizadas, permitindo contribuir efetivamente em pouco tempo.</p>
+- <p align="justify"><b>Pensamento Analítico:</b> O desenvolvimento dos testes de integração exigiu compreender o comportamento dos serviços, identificar cenários críticos e estruturar validações capazes de detectar falhas antes da integração entre os módulos.</p>
+- <p align="justify"><b>Qualidade de Software:</b> Aprimorei minha visão sobre testes automatizados, Integração Contínua e práticas de Shift Left Testing, compreendendo a importância de validar funcionalidades desde as etapas iniciais do desenvolvimento.</p>
+- <p align="justify"><b>Colaboração:</b> Trabalhei em conjunto com os demais integrantes para integrar Front-end, Back-end e testes automatizados, contribuindo para entregas mais consistentes e com maior qualidade.</p>
+
+## Conclusão
+
+<p align="justify">Esta API marcou um momento importante da minha formação por ampliar minha visão sobre qualidade de software e DevOps. Além de atuar no desenvolvimento do Front-end, tive a oportunidade de aprofundar meus conhecimentos em testes de integração, automação de pipelines e Integração Contínua utilizando GitHub Actions. Essa experiência mostrou que desenvolver uma funcionalidade vai além da implementação do código: envolve garantir sua confiabilidade, facilitar sua manutenção e contribuir para um processo de entrega mais seguro e eficiente.</p>
+
 
 <hr>
 
@@ -456,6 +551,7 @@ Todo o conteúdo vai aqui...
   </p>
 
 </details>
+
 
 <details>
 <summary><b id="kpi-cards">6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados, KPI Cards</b></summary>
@@ -548,7 +644,6 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 <p align="justify">Os requisitos envolvendo ETL, Inteligência Artificial e LGPD representaram os principais desafios técnicos deste semestre. Participar da construção do processo de ETL, compreender a utilização do MongoDB como destino dos dados, acompanhar a implementação das previsões utilizando Inteligência Artificial e aplicar conceitos da LGPD ampliaram significativamente minha visão sobre engenharia de dados, segurança da informação e desenvolvimento de soluções voltadas ao ambiente corporativo.</p>
 
-
 ## Aprendizados efetivos
 
 ### Hard Skills:
@@ -561,7 +656,6 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 - <p align="justify"><b>SCRUM (JIRA):</b> Uso autônomo: atuação como Scrum Master a partir da segunda sprint, organizando as atividades da equipe, acompanhando as entregas e garantindo a continuidade do projeto.</p>
 - <p align="justify"><b>Docker Compose:</b> Uso com ajuda: utilização da arquitetura containerizada para integração dos serviços e padronização do ambiente de desenvolvimento.</p>
 
-
 ### Soft Skills:
 
 - <p align="justify"><b>Liderança:</b> Assumir a função de Scrum Master durante o desenvolvimento do projeto fortaleceu minha capacidade de organizar atividades, acompanhar entregas e conduzir a equipe diante dos desafios encontrados ao longo das sprints.</p>
@@ -570,10 +664,10 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 - <p align="justify"><b>Organização:</b> Conciliar as responsabilidades de desenvolvimento com a função de Scrum Master exigiu planejamento, definição de prioridades e acompanhamento contínuo das atividades da equipe.</p>
 - <p align="justify"><b>Aprendizado Contínuo:</b> O contato com tecnologias como MongoDB, processos de ETL, Inteligência Artificial e conceitos da LGPD ampliou minha visão sobre desenvolvimento de software e engenharia de dados, agregando conhecimentos importantes para minha formação profissional.</p>
 
-
 ## Conclusão
 
 <p align="justify">Esta API representou um grande passo no meu desenvolvimento acadêmico e profissional. Trabalhar com tecnologias como MongoDB, ETL, Docker e Inteligência Artificial ampliou minha visão sobre como dados podem ser transformados em informações estratégicas para apoiar a tomada de decisões. Além do aprendizado técnico, assumir a responsabilidade de conduzir a equipe como Scrum Master tornou a experiência ainda mais desafiadora e enriquecedora, fortalecendo habilidades de liderança, comunicação e organização. Finalizo este projeto com a sensação de ter evoluído tanto tecnicamente quanto na forma de atuar em equipe e enfrentar desafios reais de desenvolvimento.</p>
+
 
 <hr>
 
@@ -584,23 +678,31 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 </details>
 
+
 <details>
 <summary><b id="conclusao">Conclusão</b></summary>
 
 ## Conclusão
 
-texto...
+<p align="justify">Ao longo dos cinco anos de graduação na FATEC, as Atividades Práticas Integradas (APIs) foram muito mais do que projetos acadêmicos. Cada semestre representou um novo desafio, exigindo o aprendizado de tecnologias, metodologias e formas diferentes de pensar a solução de problemas reais apresentados por empresas parceiras.</p>
 
-texto... 
+<p align="justify">Minha trajetória começou com os primeiros contatos com programação, banco de dados e desenvolvimento de software, enfrentando as dificuldades naturais de quem estava ingressando na área. A cada novo projeto fui ampliando meus conhecimentos técnicos, passando por diferentes linguagens, frameworks, bancos de dados relacionais e NoSQL, arquitetura de software, engenharia de dados, Business Intelligence, Inteligência Artificial, DevOps e práticas modernas de desenvolvimento.</p>
 
-texto...
+<p align="justify">Além da evolução técnica, esses projetos contribuíram diretamente para meu amadurecimento profissional. Tive a oportunidade de atuar em diferentes papéis dentro das equipes, desde desenvolvedor Front-end e Back-end até Scrum Master, realizando planejamento de sprints, liderança técnica, Code Review, integração de equipes e participação nas decisões de arquitetura. Cada experiência fortaleceu competências como organização, comunicação, liderança, trabalho em equipe e capacidade de adaptação diante de novos desafios.</p>
 
-</br>
+<p align="justify">Outro aspecto marcante foi a proximidade com empresas de diferentes segmentos, permitindo compreender que a tecnologia existe para resolver problemas de negócio e gerar valor para as organizações. Trabalhar com requisitos reais, prazos, validações constantes e feedback dos clientes tornou o processo de aprendizado muito mais próximo da realidade do mercado de trabalho.</p>
+
+<p align="justify">Ao concluir essa jornada, percebo uma evolução significativa não apenas como desenvolvedor, mas como profissional de tecnologia. Hoje possuo uma visão muito mais ampla sobre todo o ciclo de desenvolvimento de software, desde o entendimento do problema até a entrega de soluções escaláveis, seguras e de qualidade. Mais do que aprender ferramentas, aprendi a aprender continuamente, característica que considero essencial para qualquer profissional da área de tecnologia.</p>
+
+### Agradecimentos
+
+<p align="justify">Finalizo este portfólio agradecendo à FATEC Prof. Jessen Vidal, aos professores que compartilharam seus conhecimentos ao longo dessa caminhada, aos colegas de equipe que contribuíram para cada projeto e às empresas parceiras que proporcionaram desafios reais, tornando o aprendizado ainda mais enriquecedor. Cada API representou um passo importante na minha formação e contribuiu diretamente para o profissional que sou hoje. Levo comigo não apenas o conhecimento técnico adquirido, mas também as experiências, amizades e aprendizados construídos durante essa trajetória.</p>
+
 
 <hr>
 
   <p align="center">
-    <a href="#conclusao">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#conclusao">⬆️ Voltar ao topo deste tópico</a> &nbsp; | &nbsp; 
     <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
   </p>
 
