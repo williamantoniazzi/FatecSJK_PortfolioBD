@@ -702,7 +702,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 <hr>
 
   <p align="center">
-    <a href="#conclusao">⬆️ Voltar ao topo deste semestre</a> &nbsp; | &nbsp; 
+    <a href="#conclusao">⬆️ Voltar ao topo deste tópico</a> &nbsp; | &nbsp; 
     <a href="#portfólio-api---tecnólogo-em-banco-de-dados">🏠 Voltar para o início da página</a>
   </p>
 
