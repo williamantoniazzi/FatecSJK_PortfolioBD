@@ -440,7 +440,7 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 ## Projeto: Sistema de Controle e Acompanhamento de Recursos - SCAR
 
-[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/Steam-Ducks/strategic-cost-analytics) &nbsp; [![Confluence](https://img.shields.io/badge/Confluence-Wiki-172B4D?logo=confluence&logoColor=white)](https://steam-ducks.atlassian.net/wiki/spaces/SCA/overview?homepageId=98415) &nbsp; [![Deploy](https://img.shields.io/badge/Deploy-Online-success?logo=docker&logoColor=white)](http://143.198.2.189:5173/login)
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/Steam-Ducks/strategic-cost-analytics) &nbsp; [![Confluence](https://img.shields.io/badge/Confluence-Wiki-172B4D?logo=confluence&logoColor=white)](https://steam-ducks.atlassian.net/wiki/spaces/SCA/pages/13205505/Integration+tests) &nbsp; [![Deploy](https://img.shields.io/badge/Deploy-Online-success?logo=docker&logoColor=white)](http://143.198.2.189:5173/login)
 
 Parceiro Acadêmico: [SIATT](https://www.siatt.com.br/a-empresa?lang=pt).
 
