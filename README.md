@@ -12,11 +12,11 @@
 - [Sobre o autor: William David Antoniazzi](#sobre-o-autor-william-david-antoniazzi).
 - [Meus projetos API](#meus-projetos).
     - [1º Semestre 2020-1: Fatec - Assistente Pessoal PET](#assistente-pet).
-    - [2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC](#ddc).
-    - [3º Semestre 2022-2: IACIT - Sistema Meteorológico, ioWeather](#ioweather).
-    - [4º Semestre 2023-1: Embraer - Aircraft Configuration Control, ACC](#acc).
-    - [5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos, SCAR](#scar).
-    - [6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados, KPI Cards](#kpi-cards).
+    - [2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas (DDC)](#ddc).
+    - [3º Semestre 2022-2: IACIT - Sistema Meteorológico ioWeather](#ioweather).
+    - [4º Semestre 2023-1: Embraer - Aircraft Configuration Control (ACC)](#acc).
+    - [5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos (SCAR)](#scar).
+    - [6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados KPI Cards](#kpi-cards).
 - [Conclusão](#conclusao).
 
 ## Sobre o autor: William David Antoniazzi
@@ -146,9 +146,9 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 
 <details>
-<summary><b id="ddc"> 2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas, DDC</b></summary>
+<summary><b id="ddc"> 2º Semestre 2020-2: TecSus - Sistema de Digitação de Contas (DDC)</b></summary>
 
-## Projeto: Sistema de digitação de contas DDC
+## Projeto: Sistema de digitação de contas (DDC)
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/TobiasLino/ddc-final)
 
@@ -248,7 +248,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 
 <details>
-<summary><b id="ioweather" style="display: inline;">3º Semestre 2022-2: IACIT - Sistema Meteorológico, ioWeather</b></summary>
+<summary><b id="ioweather" style="display: inline;">3º Semestre 2022-2: IACIT - Sistema Meteorológico ioWeather</b></summary>
 
 ## Projeto: Sistema Meteorológico ioWeather
 
@@ -344,7 +344,7 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 
 
 <details>
-<summary><b id="acc">4º Semestre 2023-1: Embraer - Aircraft Configuration Control, ACC</b></summary>
+<summary><b id="acc">4º Semestre 2023-1: Embraer - Aircraft Configuration Control (ACC)</b></summary>
 
 ## Projeto: Aircraft Configuration Control (ACC)
 
@@ -436,9 +436,9 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 
 <details>
-<summary><b id="scar">5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos, SCAR</b></summary>
+<summary><b id="scar">5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos (SCAR)</b></summary>
 
-## Projeto: Sistema de Controle e Acompanhamento de Recursos - SCAR
+## Projeto: Sistema de Controle e Acompanhamento de Recursos (SCAR)
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/Steam-Ducks/strategic-cost-analytics) &nbsp; [![Confluence](https://img.shields.io/badge/Confluence-Wiki-172B4D?logo=confluence&logoColor=white)](https://steam-ducks.atlassian.net/wiki/spaces/SCA/pages/13205505/Integration+tests) &nbsp; [![Deploy](https://img.shields.io/badge/Deploy-Online-success?logo=docker&logoColor=white)](http://143.198.2.189:5173/login)
 
@@ -554,9 +554,9 @@ http://143.198.2.189:5173/login -- fazer um vídeo??? -->
 
 
 <details>
-<summary><b id="kpi-cards">6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados, KPI Cards</b></summary>
+<summary><b id="kpi-cards">6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados KPI Cards</b></summary>
 
-## Projeto: Sistema de Análise de Dados - KPI Cards
+## Projeto: Sistema de Análise de Dados KPI Cards
 
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/NoDesk-6BD/6sem2025Main)
 
