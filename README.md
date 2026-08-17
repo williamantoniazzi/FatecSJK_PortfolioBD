@@ -75,7 +75,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 [![](http://img.youtube.com/vi/7vHIkx5pvZ4/0.jpg)](http://www.youtube.com/watch?v=7vHIkx5pvZ4 "Projeto Integrador 2020-1")
 
-*Demonstração do projeto em funcionamento, link para o youtube*
+*Demonstração do projeto em funcionamento, link para o youtube: http://www.youtube.com/watch?v=7vHIkx5pvZ4*
 
 </div>
 
@@ -278,7 +278,7 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 [![](http://img.youtube.com/vi/h1t4SODqV5s/0.jpg)](https://youtu.be/h1t4SODqV5s "HexTech ioWeather")
 
-*Demonstração do projeto em funcionamento, link para o youtube*
+*Demonstração do projeto em funcionamento, link para o youtube: https://youtu.be/h1t4SODqV5s*
 </div>
 
 ## Contribuições pessoais
@@ -598,7 +598,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2")
 
-*Demonstração do sistema em funcionamento, link para o youtube*
+*Demonstração do sistema em funcionamento, link para o youtube: https://youtu.be/KZ-d-pSWn4I*
 
 </div>
 
@@ -680,7 +680,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 
 <details>
-<summary><b id="conclusao">Conclusão</b></summary>
+<summary><b id="conclusao">Conclusão e Agradecimentos</b></summary>
 
 ## Conclusão
 
