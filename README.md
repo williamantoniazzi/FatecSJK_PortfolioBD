@@ -57,13 +57,13 @@ Parceiro Acadêmico: [FATEC Profº. Jessen Vidal](https://fatecsjc-prd.azurewebs
 
 <p align="justify">O escopo deste projeto foi desenvolver um assistente pessoal, que poderia ser mobile, web ou desktop, com o tipo e finalidade definida pela equipe, sendo obrigatória a utilização de um assistente de voz para execução de ações.</p>
 
-<p align="justify">A equipe decidiu criar uma aplicação de cuidados para pets, um assistente desktop, utilizando Python para o Back-end, Tkinter para o Front-end, banco de dados SQL para armazenamento de informações e o assistente de voz do Google para reconhecimento de comandos.</p>
+<p align="justify">A equipe decidiu criar uma aplicação de cuidados para pets, um assistente desktop, utilizando Python para o Backend, Tkinter para o Frontend, banco de dados SQL para armazenamento de informações e o assistente de voz do Google para reconhecimento de comandos.</p>
 
 ## Tecnologias adotadas
 
-Front-end: [Tkinter](https://docs.python.org/pt-br/3/library/tkinter.html)
+Frontend: [Tkinter](https://docs.python.org/pt-br/3/library/tkinter.html)
 
-Back-end: [Phyton](https://www.python.org/)
+Backend: [Phyton](https://www.python.org/)
 
 SGBD: [MySQL Community](https://www.mysql.com/products/community/)
 
@@ -75,7 +75,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 [![](http://img.youtube.com/vi/7vHIkx5pvZ4/0.jpg)](http://www.youtube.com/watch?v=7vHIkx5pvZ4 "Projeto Integrador 2020-1")
 
-*Demonstração do projeto em funcionamento, link para o youtube*
+*Demonstração do projeto em funcionamento, link para o youtube: http://www.youtube.com/watch?v=7vHIkx5pvZ4*
 
 </div>
 
@@ -90,21 +90,21 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 ## Contribuições pessoais
 
-<p align="justify">Atuei como desenvolvedor Front-end, utilizando a linguagem Tkinter e contribuição para a modelagem do SGBD MySQL.<p>
+<p align="justify">Atuei como desenvolvedor Frontend, utilizando a linguagem Tkinter e contribuição para a modelagem do SGBD MySQL.<p>
 
 <p align="justify">Nesta API os desafios foram:</p>
 
 - <p align="justify">Modelagem e gerenciamento do SGBD relacional MySQL Community.</p>
 - <p align="justify">Utilização de Phyton, Tkinter.</p>
-- <p align="justify">Integração do Back-end, Front-end e o assistente de voz.</p>
+- <p align="justify">Integração do Backend, Frontend e o assistente de voz.</p>
 
-### Back-end:
+### Backend:
 
-<p align="justify"><b>Phyton:</b> Programação é um desafio para mim, e iniciar com o Phyton para conhecer estruturas de linguagem, POO e outros conceitos facilitou a questão de aprendizado, o que possibilitou minha contribuição para criação de alguams partes do projeto como cadastro do pet e controle de ração e trabalhar com validação de dados e controle de excessão.</p>
+<p align="justify"><b>Phyton:</b> Programação é um desafio para mim, e iniciar com o Phyton para conhecer estruturas de linguagem, POO e outros conceitos facilitou a questão de aprendizado, o que possibilitou minha contribuição para criação de algumas partes do projeto como cadastro do pet e controle de ração e trabalhar com validação de dados e controle de excessão.</p>
 
-### Front-end:
+### Frontend:
 
-<p align="justify"><b>Tkinter:</b> É uma biblioteca do Python, utilizando mesma linguagem o que facilitou o aprendizado, com este contribuí com a criação de todas as telas do projeto, Controle de ração, Autenticação, Cadastro do pet e realizei a integração Back-end com o Front-end.</p>
+<p align="justify"><b>Tkinter:</b> É uma biblioteca do Python, utilizando mesma linguagem o que facilitou o aprendizado, com este contribuí com a criação de todas as telas do projeto, Controle de ração, Autenticação, Cadastro do pet e realizei a integração Backend com o Frontend.</p>
 
 ### SGBD:
 
@@ -119,7 +119,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 ### Hard Skills:
 
 - <p align="justify"><b>Python:</b> Uso com ajuda: primeiro contato com estruturas de linguagem, POO e controle de exceção; contribuição no cadastro de pet e controle de ração.</p>
-- <p align="justify"><b>Tkinter:</b> Uso com ajuda: criação das telas do projeto (autenticação, cadastro do pet, controle de ração) e integração Back-end/Front-end.</p>
+- <p align="justify"><b>Tkinter:</b> Uso com ajuda: criação das telas do projeto (autenticação, cadastro do pet, controle de ração) e integração Backend/Frontend.</p>
 - <p align="justify"><b>SGBD MySQL Community:</b> Uso com ajuda: modelagem relacional considerando relações entre entidades e uso de triggers.</p>
 - <p align="justify"><b>Metodologia Ágil (Trello/Kanban):</b> Uso com ajuda: participação em cards e tarefas geridos pelo Scrum Master do grupo.</p>
 - <p align="justify"><b>GitHub:</b> Uso com ajuda: versionamento e primeiro contato com fluxo colaborativo em equipe.
@@ -168,9 +168,9 @@ Como isso o sistema que buscam é melhorar esse controle e digitar apenas os cam
 
 ## Tecnologias adotadas
 
-Front-end: [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/) e [JavaScript](https://nodejs.org/en)
+Frontend: [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/) e [JavaScript](https://nodejs.org/en)
 
-Back-end: [Java](https://www.oracle.com/java) e [Spring Boot](https://spring.io/projects/spring-boot)
+Backend: [Java](https://www.oracle.com/java) e [Spring Boot](https://spring.io/projects/spring-boot)
 
 SGBD: [MySQL Community](https://www.mysql.com/products/community/)
 
@@ -190,22 +190,22 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 ## Contribuições pessoais
 
-<p align="justify">Contribuí com a modelagem e implementação do SGBD relacional MySQL, algumas telas Front-end em HTML/CSS/Javascript e integração do Front-end com o Back-end.
+<p align="justify">Contribuí com a modelagem e implementação do SGBD relacional MySQL, algumas telas Frontend em HTML/CSS/Javascript e integração do Frontend com o Backend.
 
 - <p align="justify">Modelagem e gerenciamento do SGBD relacional MySQL Community.</p>
-- <p align="justify">Front-end para campos especificos e validação dos dados digitados em HTML/ CSS/ JavaScript.</p>
+- <p align="justify">Frontend para campos especificos e validação dos dados digitados em HTML/ CSS/ JavaScript.</p>
 
-### Back-end:
+### Backend:
 
-<p align="justify"><b>Java Spring Boot:</b> O Spring Boot é um framework que torna fácil a criação de aplicações Web autossuficientes e robustas, possibilitando a execução imediata. Contudo isso só é possível por conta da abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros. A utilização desta framework em Back-end trouxe facilidade durante a programação com a linguagem Java.</p>
+<p align="justify"><b>Java Spring Boot:</b> O Spring Boot é um framework que torna fácil a criação de aplicações Web autossuficientes e robustas, possibilitando a execução imediata. Contudo isso só é possível por conta da abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros. A utilização desta framework em Backend trouxe facilidade durante a programação com a linguagem Java.</p>
 
-### Front-end:
+### Frontend:
 
 <p align="justify"><b>JavaScript:</b> Utilizado para validação dos campos e criar interação nas páginas como menu suspensos, campos do formulário e gráficos.</p>
 
-<p align="justify"><b>HTML:</b> Utilizado para estruturar as páginas Front-end. A Linguagem de Marcação de Hipertexto é uma linguagem de computador usado para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série de marcações que dizem para os servidores qual é o estilo e a estrutura de um documento.</p>
+<p align="justify"><b>HTML:</b> Utilizado para estruturar as páginas Frontend. A Linguagem de Marcação de Hipertexto é uma linguagem de computador usado para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série de marcações que dizem para os servidores qual é o estilo e a estrutura de um documento.</p>
 
-<p align="justify"><b>CSS:</b> CSS é uma linguagem usada para estilizar elementos escritos em uma linguagem de marcação como HTML. Aprendizado e aplicados a linguagem para criar grupos de estilização para a página Front-end.</p>
+<p align="justify"><b>CSS:</b> CSS é uma linguagem usada para estilizar elementos escritos em uma linguagem de marcação como HTML. Aprendizado e aplicados a linguagem para criar grupos de estilização para a página Frontend.</p>
 
 ### SGBD:
 
@@ -220,7 +220,7 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 ### Hard Skills:
 
 - <p align="justify"><b>JavaScript:</b> Uso com ajuda: validação de campos e interações (menus suspensos, formulários, gráficos).</p>
-- <p align="justify"><b>HTML / CSS:</b> Uso com autonomia: estruturação e estilização das páginas Front-end do sistema.</p>
+- <p align="justify"><b>HTML / CSS:</b> Uso com autonomia: estruturação e estilização das páginas Frontend do sistema.</p>
 - <p align="justify"><b>Java / Spring Boot:</b> Uso com ajuda: primeiro contato com o framework para construção de aplicação web autossuficiente.</p>
 - <p align="justify"><b>SGBD MySQL Community:</b> Uso com autonomia: modelagem relacional normalizada até a 3ª forma normal, criação de triggers.</p>
 - <p align="justify"><b>Metodologia Ágil (Trello/Kanban):</b> Uso com autonomia: gestão de tasks da equipe durante o período remoto (COVID).</p>
@@ -264,9 +264,9 @@ Parceiro Acadêmico: [IACIT Soluções Tecnológicas](https://www.iacit.com.br/)
 
 ## Tecnologias adotadas
 
-Front-end: [JavaScript](https://www.javascript.com), [CSS3](https://www.w3schools.com/css/) e [Vue](https://vuejs.org/guide/quick-start)
+Frontend: [JavaScript](https://www.javascript.com), [CSS3](https://www.w3schools.com/css/) e [Vue](https://vuejs.org/guide/quick-start)
 
-Back-end: [Java](https://www.java.com/pt-BR/), [Spring Boot](https://spring.io/projects/spring-boot), [Thymeleaf](https://www.thymeleaf.org/) e [Hibernate](https://hibernate.org/)
+Backend: [Java](https://www.java.com/pt-BR/), [Spring Boot](https://spring.io/projects/spring-boot), [Thymeleaf](https://www.thymeleaf.org/) e [Hibernate](https://hibernate.org/)
 
 Banco de Dados: [PostgreSQL](https://www.postgresql.org/)
 
@@ -278,12 +278,12 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 [![](http://img.youtube.com/vi/h1t4SODqV5s/0.jpg)](https://youtu.be/h1t4SODqV5s "HexTech ioWeather")
 
-*Demonstração do projeto em funcionamento, link para o youtube*
+*Demonstração do projeto em funcionamento, link para o youtube: https://youtu.be/h1t4SODqV5s*
 </div>
 
 ## Contribuições pessoais
 
-<p align="justify">Para esta API fiquei responsável por dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe
+<p align="justify">Para esta API fiquei responsável por dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe.
 Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.</p>
 
 <p align="justify">Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática.<p>
@@ -296,7 +296,7 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 
 <p align="justify"><b>Modelagem do BD e Utilização do PostgreSQL:</b> Realizei a integração do SGBD com a aplicação, utilizando um ambiente local em host. Foi a primeira vez que trabalhei com esse tipo de SGBD, que, embora relacional, possui suas particularidades. Para garantir a aplicação correta e eficaz da estrutura modelada, aprofundei meu conhecimento na ferramenta, o que me permitiu criar triggers e procedures de maneira precisa. Além de ser responsável por todas as atividades relacionadas ao banco de dados, também atuei como Scrum Master, coordenando o time e assegurando o alinhamento das entregas conforme as metodologias ágeis.</p>
 
-### Back-end:
+### Backend:
 
 <p align="justify"><b>Spring Boot:</b> Utilizei pela primeira vez o framework Spring Boot para a criação de um projeto web e microservice. A ferramenta simplificou significativamente a configuração e facilitou a implementação do Modelo MVC. O empacotamento em JAR com o servidor Tomcat integrado proporcionou uma execução mais simples e eficiente. A configuração do POM.xml com as dependências necessárias foi intuitiva e prática. Esse processo me permitiu entender claramente o desenvolvimento e a evolução do projeto, contribuindo não apenas para o meu aprendizado, mas também para o sucesso das entregas do grupo.</p>
 
@@ -304,9 +304,9 @@ Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimen
 
 <p align="justify">No projeto, o JPA garantiu a persistência eficiente dos dados, facilitando a implementação de funcionalidades que interagem com o banco de dados e promovendo uma estrutura mais organizada e escalável.</p>
 
-### Front-end:
+### Frontend:
 
-<p align="justify"><b>Thymeleaf:</b> O Thymeleaf proporcionou uma interface web dinâmica e perfeitamente integrada ao Back-end, facilitando a construção e manutenção das páginas HTML. Esse recurso foi fundamental para o desenvolvimento de uma aplicação robusta e funcional, especialmente ao aplicar o padrão MVC (Model-View-Controller).</p>
+<p align="justify"><b>Thymeleaf:</b> O Thymeleaf proporcionou uma interface web dinâmica e perfeitamente integrada ao Backend, facilitando a construção e manutenção das páginas HTML. Esse recurso foi fundamental para o desenvolvimento de uma aplicação robusta e funcional, especialmente ao aplicar o padrão MVC (Model-View-Controller).</p>
 
 <p align="justify">O template engine simplificou a passagem de dados entre o controller e a view, garantindo que as informações fossem exibidas de forma dinâmica e coerente. Além disso, o uso do Thymeleaf facilitou futuras manutenções nas páginas, proporcionando uma estrutura mais organizada e de fácil atualização após a implementação. </p>
 
@@ -362,9 +362,9 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 
 ## Tecnologias adotadas
 
-Front-end: [JavaScript (ES6)](https://www.javascript.com), [HTML5](https://www.w3schools.com/css/), [CSS3](https://www.w3schools.com/css/) e [Vue 3](https://vuejs.org/guide/quick-start)
+Frontend: [JavaScript (ES6)](https://www.javascript.com), [HTML5](https://www.w3schools.com/css/), [CSS3](https://www.w3schools.com/css/) e [Vue 3](https://vuejs.org/guide/quick-start)
 
-Back-end: [Java](https://www.java.com/pt-BR/), [Spring Boot](https://spring.io/projects/spring-boot), [Apache Maven](https://maven.apache.org/) e [Hibernate](https://hibernate.org/)
+Backend: [Java](https://www.java.com/pt-BR/), [Spring Boot](https://spring.io/projects/spring-boot), [Apache Maven](https://maven.apache.org/) e [Hibernate](https://hibernate.org/)
 
 SGBD: [Oracle Autonomous Database](https://www.oracle.com/br/autonomous-database/)
 
@@ -382,7 +382,7 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 ## Contribuições pessoais
 
-<p align="justify">Atuando como desenvolvedor com Back-end utilizando Java e Spring Boot e também com o SGBD Oracle Autonomous, base em cloud, realizando a modelagem e gerenciamento para a plataforma web.</p>
+<p align="justify">Atuando como desenvolvedor com Backend utilizando Java e Spring Boot e também com o SGBD Oracle Autonomous, base em cloud, realizando a modelagem e gerenciamento para a plataforma web.</p>
 
 <p align="justify">Nesta API os desafios encontrados foram:</p>
 
@@ -391,7 +391,7 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 - Manipulação de listas utilizando a linguagem Java.
 - Utilização de código limpo em POO.
 
-### Back-end:
+### Backend:
 
 <p align="justify"><b>Spring Boot:</b> Contribuí na implementação do projeto utilizando Spring Boot, Spring Security e Spring Data. Desenvolvi o dashboard e os cards por meio de requisições HTTP em arquitetura REST. O Spring Security foi empregado para criptografia de dados sensíveis, enquanto o Spring Data simplificou as operações com o banco de dados.</p>
 
@@ -422,7 +422,7 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 ## Conclusão
 
-<p align="justify">Esta API representou um importante amadurecimento técnico, principalmente pelo contato com tecnologias amplamente utilizadas no ambiente corporativo, como Oracle Autonomous Database, PL/SQL, Spring Security e Spring Data. Além do desenvolvimento da solução, o projeto exigiu maior responsabilidade na organização das atividades e na gestão do tempo, especialmente em uma equipe reduzida. A experiência contribuiu para fortalecer meus conhecimentos em desenvolvimento back-end, modelagem de banco de dados e construção de aplicações seguras, além de reforçar a importância da comunicação e da colaboração para superar desafios e garantir a entrega de uma solução de qualidade.</p>
+<p align="justify">Esta API representou um importante amadurecimento técnico, principalmente pelo contato com tecnologias amplamente utilizadas no ambiente corporativo, como Oracle Autonomous Database, PL/SQL, Spring Security e Spring Data. Além do desenvolvimento da solução, o projeto exigiu maior responsabilidade na organização das atividades e na gestão do tempo, especialmente em uma equipe reduzida. A experiência contribuiu para fortalecer meus conhecimentos em desenvolvimento backend, modelagem de banco de dados e construção de aplicações seguras, além de reforçar a importância da comunicação e da colaboração para superar desafios e garantir a entrega de uma solução de qualidade.</p>
 
 
 <hr>
@@ -456,9 +456,9 @@ Parceiro Acadêmico: [SIATT](https://www.siatt.com.br/a-empresa?lang=pt).
 
 ## Tecnologias adotadas
 
-Front-end: [Vue 3](https://vuejs.org/guide/quick-start.html) e [Nuxt 4](https://nuxt.com/docs/4.x/getting-started/introduction)
+Frontend: [Vue 3](https://vuejs.org/guide/quick-start.html) e [Nuxt 4](https://nuxt.com/docs/4.x/getting-started/introduction)
 
-Back-end: [Python](https://www.python.org/) e [Django](https://docs.djangoproject.com/en/6.0/)
+Backend: [Python](https://www.python.org/) e [Django](https://docs.djangoproject.com/en/6.0/)
 
 SGBD: [PostgreSQL](https://www.postgresql.org/docs/17/index.html)
 
@@ -478,9 +478,9 @@ http://143.198.2.189:5173/login -- fazer um vídeo??? -->
 
 </div>
 
-- <p align="justify"><b>Front-end:</b> O Front-end foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, responsável pela construção dos dashboards analíticos, gráficos e indicadores que permitiam visualizar custos, evolução temporal dos projetos e demais métricas consolidadas pelo Data Warehouse.</p>
+- <p align="justify"><b>Frontend:</b> O Frontend foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, responsável pela construção dos dashboards analíticos, gráficos e indicadores que permitiam visualizar custos, evolução temporal dos projetos e demais métricas consolidadas pelo Data Warehouse.</p>
 
-- <p align="justify"><b>Back-end:</b> O Back-end foi desenvolvido em Python utilizando Django, disponibilizando APIs responsáveis pela comunicação com o Front-end, processamento das regras de negócio e acesso às informações armazenadas no banco de dados.</p>
+- <p align="justify"><b>Backend:</b> O Backend foi desenvolvido em Python utilizando Django, disponibilizando APIs responsáveis pela comunicação com o Frontend, processamento das regras de negócio e acesso às informações armazenadas no banco de dados.</p>
 
 - <p align="justify"><b>Data Warehouse:</b> O projeto teve como principal objetivo a construção de um Data Warehouse para consolidar informações provenientes de diferentes fontes, permitindo análises históricas e multidimensionais sobre projetos, programas, materiais, colaboradores e indicadores financeiros.</p>
 
@@ -488,34 +488,34 @@ http://143.198.2.189:5173/login -- fazer um vídeo??? -->
 
 - <p align="justify"><b>Infraestrutura:</b> A aplicação foi executada em um ambiente containerizado utilizando Docker e Docker Compose, garantindo padronização entre os ambientes de desenvolvimento, testes e implantação.</p>
 
-- <p align="justify"><b>DevOps:</b> Um dos principais diferenciais do projeto foi a implementação de uma esteira de Integração Contínua (CI) utilizando GitHub Actions. Foram automatizadas etapas de lint, testes, validação de qualidade e integração contínua, proporcionando maior confiabilidade ao processo de desenvolvimento. Além disso, foi adotada a estratégia <i>Shift Left Testing</i>, combinando testes End-to-End realizados pelo Front-end com testes de integração desenvolvidos no Back-end, antecipando a identificação de falhas e aumentando a qualidade das entregas.</p>
+- <p align="justify"><b>DevOps:</b> Um dos principais diferenciais do projeto foi a implementação de uma esteira de Integração Contínua (CI) utilizando GitHub Actions. Foram automatizadas etapas de lint, testes, validação de qualidade e integração contínua, proporcionando maior confiabilidade ao processo de desenvolvimento. Além disso, foi adotada a estratégia <i>Shift Left Testing</i>, combinando testes End-to-End realizados pelo Frontend com testes de integração desenvolvidos no Backend, antecipando a identificação de falhas e aumentando a qualidade das entregas.</p>
 
 - <p align="justify"><b>Metodologia Ágil:</b> A organização das atividades foi realizada utilizando Scrum com apoio do Jira para gerenciamento das sprints e do Confluence para centralização da documentação técnica e funcional do projeto.</p>
 
 ## Contribuições pessoais
 
-<p align="justify">Ingressei na equipe a partir da segunda sprint, quando o projeto já estava em andamento. A organização do time seguia uma abordagem Full Stack, na qual cada funcionalidade envolvia desde a consulta dos dados no banco, implementação dos endpoints no Back-end e integração com o Front-end para apresentação das informações ao usuário.</p>
-<p align="justify">Minha principal contribuição foi no desenvolvimento da Dashboard principal da aplicação, criando a página inicial do sistema, os gráficos e indicadores estratégicos, além da integração entre o Front-end e as APIs responsáveis por fornecer os dados consolidados do Data Warehouse.</p>
-<p align="justify">O maior aprendizado deste projeto, entretanto, esteve na área de DevOps e Qualidade de Software. Fiquei responsável por estruturar a estratégia de testes de integração do Back-end, complementando os testes End-to-End desenvolvidos pelo Front-end e contribuindo para uma esteira de integração contínua mais confiável.</p>
+<p align="justify">Ingressei na equipe a partir da segunda sprint, quando o projeto já estava em andamento. A organização do time seguia uma abordagem Full Stack, na qual cada funcionalidade envolvia desde a consulta dos dados no banco, implementação dos endpoints no Backend e integração com o Frontend para apresentação das informações ao usuário.</p>
+<p align="justify">Minha principal contribuição foi no desenvolvimento da Dashboard principal da aplicação, criando a página inicial do sistema, os gráficos e indicadores estratégicos, além da integração entre o Frontend e as APIs responsáveis por fornecer os dados consolidados do Data Warehouse.</p>
+<p align="justify">O maior aprendizado deste projeto, entretanto, esteve na área de DevOps e Qualidade de Software. Fiquei responsável por estruturar a estratégia de testes de integração do Backend, complementando os testes End-to-End desenvolvidos pelo Frontend e contribuindo para uma esteira de integração contínua mais confiável.</p>
 
 <p align="justify">Durante este projeto, meus principais desafios foram:</p>
 
-- <p align="justify">Desenvolver a Dashboard principal e integrar seus componentes às APIs do Back-end.</p>
+- <p align="justify">Desenvolver a Dashboard principal e integrar seus componentes às APIs do Backend.</p>
 - <p align="justify">Compreender o fluxo completo da aplicação, desde a obtenção dos dados até sua visualização em dashboards analíticos.</p>
 - <p align="justify">Estruturar testes de integração para validar os contratos entre os serviços da aplicação.</p>
 - <p align="justify">Aplicar conceitos de DevOps, Integração Contínua e qualidade de software utilizando GitHub Actions.</p>
 
-### Front-end:
+### Frontend:
 
-<p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Atuei no desenvolvimento da Dashboard principal da plataforma, implementando a página inicial, gráficos e indicadores estratégicos. Também realizei a integração da interface com as APIs do Back-end, consolidando minha experiência no desenvolvimento de aplicações analíticas utilizando componentes reutilizáveis e consumo de APIs REST.</p>
+<p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Atuei no desenvolvimento da Dashboard principal da plataforma, implementando a página inicial, gráficos e indicadores estratégicos. Também realizei a integração da interface com as APIs do Backend, consolidando minha experiência no desenvolvimento de aplicações analíticas utilizando componentes reutilizáveis e consumo de APIs REST.</p>
 
-### Back-end (Integração):
+### Backend (Integração):
 
-<p align="justify"><b>Integração das APIs:</b> Como cada funcionalidade era desenvolvida de forma Full Stack, participei da integração entre Front-end e Back-end, consumindo os endpoints responsáveis por disponibilizar os dados consolidados do Data Warehouse e garantindo sua correta apresentação na interface.</p>
+<p align="justify"><b>Integração das APIs:</b> Como cada funcionalidade era desenvolvida de forma Full Stack, participei da integração entre Frontend e Backend, consumindo os endpoints responsáveis por disponibilizar os dados consolidados do Data Warehouse e garantindo sua correta apresentação na interface.</p>
 
 ### DevOps e Qualidade de Software:
 
-<p align="justify"><b>Testes de Integração, GitHub Actions e Shift Left Testing:</b> Este foi o principal aprendizado do semestre. Fiquei responsável por estudar e implementar uma estratégia de testes de integração para o Back-end, adotando conceitos de Shift Left Testing para antecipar a validação das funcionalidades ainda durante o desenvolvimento. Os cenários de teste foram planejados antes da implementação das funcionalidades, seguindo princípios de Acceptance Test-Driven Development (ATDD), utilizando marcações <i>xfail</i> para requisitos ainda não concluídos e garantindo que os testes evoluíssem junto com a aplicação.</p>
+<p align="justify"><b>Testes de Integração, GitHub Actions e Shift Left Testing:</b> Este foi o principal aprendizado do semestre. Fiquei responsável por estudar e implementar uma estratégia de testes de integração para o Backend, adotando conceitos de Shift Left Testing para antecipar a validação das funcionalidades ainda durante o desenvolvimento. Os cenários de teste foram planejados antes da implementação das funcionalidades, seguindo princípios de Acceptance Test-Driven Development (ATDD), utilizando marcações <i>xfail</i> para requisitos ainda não concluídos e garantindo que os testes evoluíssem junto com a aplicação.</p>
 
 <p align="justify">Também participei da configuração da esteira de Integração Contínua utilizando GitHub Actions, automatizando a execução dos testes sempre que novas alterações eram enviadas ao repositório. Essa experiência ampliou significativamente minha visão sobre qualidade de software, automação de testes e práticas DevOps, demonstrando na prática como reduzir falhas de integração e aumentar a confiabilidade das entregas.</p>
 
@@ -524,9 +524,9 @@ http://143.198.2.189:5173/login -- fazer um vídeo??? -->
 ### Hard Skills:
 
 - <p align="justify"><b>Vue 3 / Nuxt 4 / TypeScript:</b> Uso com autonomia: desenvolvimento da Dashboard principal da aplicação, criação de gráficos e integração com APIs REST para exibição dos indicadores estratégicos.</p>
-- <p align="justify"><b>Python / Django:</b> Uso com ajuda: compreensão da estrutura do Back-end e integração dos endpoints necessários para consumo dos dados no Front-end.</p>
+- <p align="justify"><b>Python / Django:</b> Uso com ajuda: compreensão da estrutura do Backend e integração dos endpoints necessários para consumo dos dados no Frontend.</p>
 - <p align="justify"><b>PostgreSQL:</b> Uso com autonomia: realização de consultas para entendimento da estrutura dos dados utilizados nos dashboards, sem atuação na modelagem do banco.</p>
-- <p align="justify"><b>Testes de Integração (Pytest):</b> Uso com autonomia: planejamento e implementação de testes de integração para validação dos serviços do Back-end, garantindo maior confiabilidade durante o desenvolvimento.</p>
+- <p align="justify"><b>Testes de Integração (Pytest):</b> Uso com autonomia: planejamento e implementação de testes de integração para validação dos serviços do Backend, garantindo maior confiabilidade durante o desenvolvimento.</p>
 - <p align="justify"><b>DevOps (GitHub Actions):</b> Uso com autonomia: implementação e automação da execução dos testes de integração na pipeline de Integração Contínua, fortalecendo as práticas de qualidade do projeto.</p>
 - <p align="justify"><b>Metodologia Ágil (JIRA e Confluence):</b> Uso com autonomia: acompanhamento das sprints, documentação técnica e organização das atividades da equipe.</p>
 - <p align="justify"><b>GitHub:</b> Uso com autonomia: versionamento, Code Review e utilização de Pull Requests durante o desenvolvimento colaborativo.</p>
@@ -536,11 +536,11 @@ http://143.198.2.189:5173/login -- fazer um vídeo??? -->
 - <p align="justify"><b>Adaptabilidade:</b> Entrar na equipe a partir da segunda sprint exigiu rápida compreensão da arquitetura, do fluxo de desenvolvimento e das tecnologias utilizadas, permitindo contribuir efetivamente em pouco tempo.</p>
 - <p align="justify"><b>Pensamento Analítico:</b> O desenvolvimento dos testes de integração exigiu compreender o comportamento dos serviços, identificar cenários críticos e estruturar validações capazes de detectar falhas antes da integração entre os módulos.</p>
 - <p align="justify"><b>Qualidade de Software:</b> Aprimorei minha visão sobre testes automatizados, Integração Contínua e práticas de Shift Left Testing, compreendendo a importância de validar funcionalidades desde as etapas iniciais do desenvolvimento.</p>
-- <p align="justify"><b>Colaboração:</b> Trabalhei em conjunto com os demais integrantes para integrar Front-end, Back-end e testes automatizados, contribuindo para entregas mais consistentes e com maior qualidade.</p>
+- <p align="justify"><b>Colaboração:</b> Trabalhei em conjunto com os demais integrantes para integrar Frontend, Backend e testes automatizados, contribuindo para entregas mais consistentes e com maior qualidade.</p>
 
 ## Conclusão
 
-<p align="justify">Esta API marcou um momento importante da minha formação por ampliar minha visão sobre qualidade de software e DevOps. Além de atuar no desenvolvimento do Front-end, tive a oportunidade de aprofundar meus conhecimentos em testes de integração, automação de pipelines e Integração Contínua utilizando GitHub Actions. Essa experiência mostrou que desenvolver uma funcionalidade vai além da implementação do código: envolve garantir sua confiabilidade, facilitar sua manutenção e contribuir para um processo de entrega mais seguro e eficiente.</p>
+<p align="justify">Esta API marcou um momento importante da minha formação por ampliar minha visão sobre qualidade de software e DevOps. Além de atuar no desenvolvimento do Frontend, tive a oportunidade de aprofundar meus conhecimentos em testes de integração, automação de pipelines e Integração Contínua utilizando GitHub Actions. Essa experiência mostrou que desenvolver uma funcionalidade vai além da implementação do código: envolve garantir sua confiabilidade, facilitar sua manutenção e contribuir para um processo de entrega mais seguro e eficiente.</p>
 
 
 <hr>
@@ -580,9 +580,9 @@ Parceiro Acadêmico: [Pro4Tech](https://pro4tech.com.br/).
 
 ## Tecnologias adotadas
 
-Front-end: [Vue 3](https://vuejs.org/guide/quick-start.html) e [Nuxt 4](https://nuxt.com/docs/4.x/getting-started/introduction)
+Frontend: [Vue 3](https://vuejs.org/guide/quick-start.html) e [Nuxt 4](https://nuxt.com/docs/4.x/getting-started/introduction)
 
-Back-end: [Python](https://www.python.org/) e [Fast API](https://fastapi.tiangolo.com/learn/)
+Backend: [Python](https://www.python.org/) e [Fast API](https://fastapi.tiangolo.com/learn/)
 
 Banco de dados e ETL [SQL Server](https://www.microsoft.com/pt-br/sql-server#Get-started), [PostgreSQL](https://www.postgresql.org/docs/17/index.html) e [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 
@@ -598,13 +598,13 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2")
 
-*Demonstração do sistema em funcionamento, link para o youtube*
+*Demonstração do sistema em funcionamento, link para o youtube: https://youtu.be/KZ-d-pSWn4I*
 
 </div>
 
-- <p align="justify"><b>Front-end:</b> O Front-end foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, onde foram criados os dashboards, gráficos e KPI Cards responsáveis por apresentar os indicadores de forma clara e intuitiva para os usuários.</p>
+- <p align="justify"><b>Frontend:</b> O Frontend foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, onde foram criados os dashboards, gráficos e KPI Cards responsáveis por apresentar os indicadores de forma clara e intuitiva para os usuários.</p>
 
-- <p align="justify"><b>Back-end:</b> O Back-end foi desenvolvido em Python e FastAPI, responsável por disponibilizar APIs REST consumidas pelo Front-end. Sua estrutura modular facilitou o desenvolvimento, a organização do código e futuras manutenções.</p>
+- <p align="justify"><b>Backend:</b> O Backend foi desenvolvido em Python e FastAPI, responsável por disponibilizar APIs REST consumidas pelo Frontend. Sua estrutura modular facilitou o desenvolvimento, a organização do código e futuras manutenções.</p>
 
 - <p align="justify"><b>ETL:</b> Os dados eram extraídos do banco SQL Server da Pro4Tech e passavam por um processo de ETL, no qual eram tratados e transformados em indicadores prontos para análise e visualização.</p>
 
@@ -618,19 +618,19 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 ## Contribuições pessoais
 
-<p align="justify">Atuei inicialmente como desenvolvedor Front-end e, a partir da segunda sprint, também assumi a função de Scrum Master, passando a assumir a coordenação técnica do projeto durante as sprints finais. Além do desenvolvimento, participei do gerenciamento das entregas, revisão de código (Code Review), integração entre os repositórios e da modelagem do banco de dados MongoDB utilizado para armazenamento das métricas processadas pelo ETL.<p>
+<p align="justify">Atuei inicialmente como desenvolvedor Frontend e, a partir da segunda sprint, também assumi a função de Scrum Master, passando a assumir a coordenação técnica do projeto durante as sprints finais. Além do desenvolvimento, participei do gerenciamento das entregas, revisão de código (Code Review), integração entre os repositórios e da modelagem do banco de dados MongoDB utilizado para armazenamento das métricas processadas pelo ETL.<p>
 
 <p align="justify">Durante este projeto, meus principais desafios foram:</p>
 
-- <p align="justify">Conciliar as funções de desenvolvedor Front-end e Scrum Master.</p>
-- <p align="justify">Integrar o Front-end às APIs do Back-end.</p>
+- <p align="justify">Conciliar as funções de desenvolvedor Frontend e Scrum Master.</p>
+- <p align="justify">Integrar o Frontend às APIs do Backend.</p>
 - <p align="justify">Modelar o banco MongoDB para armazenamento das métricas.</p>
 - <p align="justify">Realizar Code Review e integração das Pull Requests.</p>
 - <p align="justify">Colaborar na implementação do ETL, IA e requisitos da LGPD.</p>
 
-### Front-end:
+### Frontend:
 
-<p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Foi a área em que tive maior participação no desenvolvimento. Contribuí na criação das telas, dashboards e KPI Cards, além da integração entre o Front-end e as APIs do Back-end. Essa experiência fortaleceu meus conhecimentos em desenvolvimento de interfaces modernas e consumo de APIs REST.</p>
+<p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Foi a área em que tive maior participação no desenvolvimento. Contribuí na criação das telas, dashboards e KPI Cards, além da integração entre o Frontend e as APIs do Backend. Essa experiência fortaleceu meus conhecimentos em desenvolvimento de interfaces modernas e consumo de APIs REST.</p>
 
 ### SGBD:
 
@@ -648,8 +648,8 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 ### Hard Skills:
 
-- <p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Uso autônomo: desenvolvimento da interface da aplicação, criação dos dashboards, KPI Cards e integração do Front-end com as APIs REST disponibilizadas pelo Back-end.</p>
-- <p align="justify"><b>Python e FastAPI:</b> Uso com ajuda: compreensão da arquitetura do Back-end, consumo das APIs e participação na integração entre Front-end e Back-end.</p>
+- <p align="justify"><b>Nuxt 4, Vue 3 e TypeScript:</b> Uso autônomo: desenvolvimento da interface da aplicação, criação dos dashboards, KPI Cards e integração do Frontend com as APIs REST disponibilizadas pelo Backend.</p>
+- <p align="justify"><b>Python e FastAPI:</b> Uso com ajuda: compreensão da arquitetura do Backend, consumo das APIs e participação na integração entre Frontend e Backend.</p>
 - <p align="justify"><b>MongoDB (NoSQL):</b> Uso com ajuda: modelagem do banco de dados destinado ao armazenamento das métricas processadas pelo ETL, adquirindo experiência com bancos orientados a documentos e modelagem NoSQL.</p>
 - <p align="justify"><b>ETL e Engenharia de Dados:</b> Uso com ajuda: participação na construção do fluxo de extração, transformação e carga dos dados, compreendendo o processamento das informações entre SQL Server e MongoDB para geração dos indicadores.</p>
 - <p align="justify"><b>GitHub:</b> Uso autônomo: realização de Code Review, gerenciamento de Pull Requests e integração dos repositórios durante todo o desenvolvimento do projeto.</p>
@@ -659,7 +659,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 ### Soft Skills:
 
 - <p align="justify"><b>Liderança:</b> Assumir a função de Scrum Master durante o desenvolvimento do projeto fortaleceu minha capacidade de organizar atividades, acompanhar entregas e conduzir a equipe diante dos desafios encontrados ao longo das sprints.</p>
-- <p align="justify"><b>Comunicação:</b> A integração entre Front-end, Back-end, ETL e banco de dados exigiu comunicação constante entre os integrantes da equipe, principalmente durante as revisões de código e definição das soluções implementadas.</p>
+- <p align="justify"><b>Comunicação:</b> A integração entre Frontend, Backend, ETL e banco de dados exigiu comunicação constante entre os integrantes da equipe, principalmente durante as revisões de código e definição das soluções implementadas.</p>
 - <p align="justify"><b>Resolução de Problemas:</b> Trabalhar com diferentes tecnologias, como MongoDB, ETL, APIs REST e Inteligência Artificial, exigiu pesquisar, testar soluções e compreender novos conceitos para atender aos requisitos do projeto.</p>
 - <p align="justify"><b>Organização:</b> Conciliar as responsabilidades de desenvolvimento com a função de Scrum Master exigiu planejamento, definição de prioridades e acompanhamento contínuo das atividades da equipe.</p>
 - <p align="justify"><b>Aprendizado Contínuo:</b> O contato com tecnologias como MongoDB, processos de ETL, Inteligência Artificial e conceitos da LGPD ampliou minha visão sobre desenvolvimento de software e engenharia de dados, agregando conhecimentos importantes para minha formação profissional.</p>
@@ -680,7 +680,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 
 <details>
-<summary><b id="conclusao">Conclusão</b></summary>
+<summary><b id="conclusao">Conclusão e Agradecimentos</b></summary>
 
 ## Conclusão
 
@@ -688,7 +688,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 <p align="justify">Minha trajetória começou com os primeiros contatos com programação, banco de dados e desenvolvimento de software, enfrentando as dificuldades naturais de quem estava ingressando na área. A cada novo projeto fui ampliando meus conhecimentos técnicos, passando por diferentes linguagens, frameworks, bancos de dados relacionais e NoSQL, arquitetura de software, engenharia de dados, Business Intelligence, Inteligência Artificial, DevOps e práticas modernas de desenvolvimento.</p>
 
-<p align="justify">Além da evolução técnica, esses projetos contribuíram diretamente para meu amadurecimento profissional. Tive a oportunidade de atuar em diferentes papéis dentro das equipes, desde desenvolvedor Front-end e Back-end até Scrum Master, realizando planejamento de sprints, liderança técnica, Code Review, integração de equipes e participação nas decisões de arquitetura. Cada experiência fortaleceu competências como organização, comunicação, liderança, trabalho em equipe e capacidade de adaptação diante de novos desafios.</p>
+<p align="justify">Além da evolução técnica, esses projetos contribuíram diretamente para meu amadurecimento profissional. Tive a oportunidade de atuar em diferentes papéis dentro das equipes, desde desenvolvedor Frontend e Backend até Scrum Master, realizando planejamento de sprints, liderança técnica, Code Review, integração de equipes e participação nas decisões de arquitetura. Cada experiência fortaleceu competências como organização, comunicação, liderança, trabalho em equipe e capacidade de adaptação diante de novos desafios.</p>
 
 <p align="justify">Outro aspecto marcante foi a proximidade com empresas de diferentes segmentos, permitindo compreender que a tecnologia existe para resolver problemas de negócio e gerar valor para as organizações. Trabalhar com requisitos reais, prazos, validações constantes e feedback dos clientes tornou o processo de aprendizado muito mais próximo da realidade do mercado de trabalho.</p>
 
