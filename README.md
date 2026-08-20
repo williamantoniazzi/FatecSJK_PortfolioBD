@@ -486,11 +486,14 @@ DevOps: [GitHub Actions](https://docs.github.com/pt/actions)
 
 <div align="center">
 
-<!-- [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2") 
-http://143.198.2.189:5173/login -- fazer um vídeo??? -->
-*Demonstração do sistema em funcionamento, link para o youtube*
+<a href="http://www.youtube.com/watch?v=4KbYw_uOxqQ" target="_blank">
+  <img src="http://img.youtube.com/vi/4KbYw_uOxqQ/0.jpg" width="500" alt="Projeto Integrador 2026-1" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="http://www.youtube.com/watch?v=4KbYw_uOxqQ" target="_blank">http://www.youtube.com/watch?v=4KbYw_uOxqQ</a></em>
 
 </div>
+<br>
 
 - <p align="justify"><b>Frontend:</b> O Frontend foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, responsável pela construção dos dashboards analíticos, gráficos e indicadores que permitiam visualizar custos, evolução temporal dos projetos e demais métricas consolidadas pelo Data Warehouse.</p>
 
