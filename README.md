@@ -17,7 +17,7 @@
     - [4º Semestre 2023-1: Embraer - Aircraft Configuration Control (ACC)](#acc).
     - [5º Semestre 2026-1: SIATT - Sistema de Controle e Acompanhamento de Recursos (SCAR)](#scar).
     - [6º Semestre 2025-2: Pro4Tech - Sistema de Análise de Dados KPI Cards](#kpi-cards).
-- [Conclusão](#conclusao).
+- [Conclusão e Agradecimentos](#conclusao).
 
 ## Sobre o autor: William David Antoniazzi
 
@@ -29,8 +29,9 @@
 <p align="justify">Tenho habilidades em redes de computadores e servidores, switches/roteadores, e, com o tecnólogo, busco aprimorar conhecimentos em SGBD relacional e NoSQL linguagem de programação Python, Java e PHP. Também aplicar metodologias ágeis para a execução de projetos, como Scrum e Kanban.<p>
 
 <div align="center">
-<img src="./documents/william.antoniazzi.jpg" width="200px;"/><br/>
-<b>William Antoniazzi</b>
+<!-- <img src="./documents/william.antoniazzi.jpg" width="200px;"/><br/> -->
+<img src="https://github.com/williamantoniazzi.png" width="200px;"/><br/>
+<b>William David Antoniazzi</b>
 <p>Suporte, Redes e Infraestrutura em TI</p>
 <a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-WilliamAntoniazzi-blue?style=flat-square&logo=github"></a>&nbsp;<a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-WilliamAntoniazzi-blue?style=flat-square&logo=linkedin"></a>&nbsp;<a href="mailto:william.antoniazzi@gmail.com"><img src="https://img.shields.io/badge/Gmail-william.antoniazzi-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
 
@@ -73,11 +74,14 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 <div align="center">
 
-[![](http://img.youtube.com/vi/7vHIkx5pvZ4/0.jpg)](http://www.youtube.com/watch?v=7vHIkx5pvZ4 "Projeto Integrador 2020-1")
-
-*Demonstração do projeto em funcionamento, link para o youtube: http://www.youtube.com/watch?v=7vHIkx5pvZ4*
+<a href="http://www.youtube.com/watch?v=7vHIkx5pvZ4" target="_blank">
+  <img src="http://img.youtube.com/vi/7vHIkx5pvZ4/0.jpg" width="500" alt="Projeto Integrador 2020-1" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="http://www.youtube.com/watch?v=7vHIkx5pvZ4" target="_blank">http://www.youtube.com/watch?v=7vHIkx5pvZ4</a></em>
 
 </div>
+<br>
 
 <p align="justify">No assistente, é possível:</p>
 
@@ -180,11 +184,14 @@ Metodologia ágil: [Atlassian Trello](https://trello.com/pt-BR)
 
 <div align="center">
 
-![](./documents/2BD_DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
-
-*Wireframes do projeto em funcionamento, exibição em gif*
+<a href="https://youtu.be/-qkpYNJtVDM" target="_blank">
+  <img src="http://img.youtube.com/vi/-qkpYNJtVDM/0.jpg" width="500" alt="Projeto Integrador 2020-2" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="https://youtu.be/-qkpYNJtVDM" target="_blank">https://youtu.be/-qkpYNJtVDM</a></em>
 
 </div>
+<br>
 
 <p align="justify">A proposta do grupo foi apresentar uma ferramenta leve para ser utilizada via web.Facilitando a digitação dos dados das contas de Energia, Água, Gás e outros de seus clientes.</p>
 
@@ -276,10 +283,14 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 <div align="center">
 
-[![](http://img.youtube.com/vi/h1t4SODqV5s/0.jpg)](https://youtu.be/h1t4SODqV5s "HexTech ioWeather")
+<a href="https://youtu.be/h1t4SODqV5s" target="_blank">
+  <img src="http://img.youtube.com/vi/h1t4SODqV5s/0.jpg" width="500" alt="Projeto Integrador 2022-2" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="https://youtu.be/h1t4SODqV5s" target="_blank">https://youtu.be/h1t4SODqV5s</a></em>
 
-*Demonstração do projeto em funcionamento, link para o youtube: https://youtu.be/h1t4SODqV5s*
 </div>
+<br>
 
 ## Contribuições pessoais
 
@@ -374,11 +385,14 @@ Metodologia ágil: [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 
 <div align="center">
 
-![](/documents/4BD_HEXTECH_Final.gif "ACC Embraer HexTech")
-
-*Wireframes do projeto em funcionamento, exibição em gif*
+<a href="https://youtu.be/uiCxBllqmUc" target="_blank">
+  <img src="http://img.youtube.com/vi/uiCxBllqmUc/0.jpg" width="500" alt="Projeto Integrador 2023-1" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="https://youtu.be/uiCxBllqmUc" target="_blank">https://youtu.be/uiCxBllqmUc</a></em>
 
 </div>
+<br>
 
 ## Contribuições pessoais
 
@@ -472,11 +486,14 @@ DevOps: [GitHub Actions](https://docs.github.com/pt/actions)
 
 <div align="center">
 
-<!-- [![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2") 
-http://143.198.2.189:5173/login -- fazer um vídeo??? -->
-*Demonstração do sistema em funcionamento, link para o youtube*
+<a href="http://www.youtube.com/watch?v=4KbYw_uOxqQ" target="_blank">
+  <img src="http://img.youtube.com/vi/4KbYw_uOxqQ/0.jpg" width="500" alt="Projeto Integrador 2026-1" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="http://www.youtube.com/watch?v=4KbYw_uOxqQ" target="_blank">http://www.youtube.com/watch?v=4KbYw_uOxqQ</a></em>
 
 </div>
+<br>
 
 - <p align="justify"><b>Frontend:</b> O Frontend foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, responsável pela construção dos dashboards analíticos, gráficos e indicadores que permitiam visualizar custos, evolução temporal dos projetos e demais métricas consolidadas pelo Data Warehouse.</p>
 
@@ -596,11 +613,14 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 <div align="center">
 
-[![](https://img.youtube.com/vi/KZ-d-pSWn4I/maxresdefault.jpg)](https://youtu.be/KZ-d-pSWn4I "NoDesk, KPI Cards - Pro4Tech - Fatec SJK, API6 BD 2025.2")
-
-*Demonstração do sistema em funcionamento, link para o youtube: https://youtu.be/KZ-d-pSWn4I*
+<a href="http://www.youtube.com/watch?v=KZ-d-pSWn4I" target="_blank">
+  <img src="http://img.youtube.com/vi/KZ-d-pSWn4I/0.jpg" width="500" alt="Projeto Integrador 2025-2" />
+</a>
+<br>
+<em>Demonstração do projeto em funcionamento, link para o youtube: <a href="http://www.youtube.com/watch?v=KZ-d-pSWn4I" target="_blank">http://www.youtube.com/watch?v=KZ-d-pSWn4I</a></em>
 
 </div>
+<br>
 
 - <p align="justify"><b>Frontend:</b> O Frontend foi desenvolvido com Nuxt 4, Vue 3 e TypeScript, onde foram criados os dashboards, gráficos e KPI Cards responsáveis por apresentar os indicadores de forma clara e intuitiva para os usuários.</p>
 
@@ -614,7 +634,7 @@ Metodologia ágil: [JIRA](https://confluence.atlassian.com/jira)
 
 - <p align="justify"><b>Inteligência Artificial:</b> Como diferencial, utilizamos a biblioteca Prophet para criar previsões da demanda de chamados, agregando recursos de Inteligência Artificial à solução.</p>
 
-- <p align="justify"><b>Segurança:</b> Também foram implementadas práticas alinhadas à LGPD, incluindo proteção dos dados dos usuários e aceite dos termos de uso da plataforma. <a href="https://youtu.be/0WpYJ0nmYtg"> Vídeo demonstração do funcionamento da implementação da LGPD</a></p>
+- <p align="justify"><b>Segurança:</b> Também foram implementadas práticas alinhadas à LGPD, incluindo proteção dos dados dos usuários e aceite dos termos de uso da plataforma. <a href="https://youtu.be/0WpYJ0nmYtg"  target="_blank"> Vídeo demonstração do funcionamento da implementação da LGPD</a></p>
 
 ## Contribuições pessoais
 
